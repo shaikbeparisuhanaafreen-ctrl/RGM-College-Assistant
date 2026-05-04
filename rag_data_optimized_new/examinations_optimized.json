@@ -1,0 +1,78 @@
+[
+  {
+    "id": "examinations_contact_1",
+    "category": "examinations",
+    "subcategory": "contact",
+    "department": null,
+    "title": "RGMCET Controller of Examinations Contact",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The Examination Section of RGMCET is headed by the Controller of Examinations. Students can contact the examination branch for queries related to examinations, results, and academic records. The Controller of Examinations is Dr. D. Satyanarayana.",
+    "keywords": [
+      "RGMCET exam contact",
+      "controller of examinations RGMCET",
+      "RGMCET results contact",
+      "exam branch RGMCET",
+      "COE RGMCET"
+    ],
+    "metadata": {
+      "entity_type": "contact"
+    },
+    "exam_office": {
+      "name": "Dr. D. Satyanarayana",
+      "designation": "Controller of Examinations",
+      "phone": "+91-9866308471",
+      "emails": [
+        "rgmcet09_exams@yahoo.co.in",
+        "rgmcet09_exams@rgmcet.edu.in"
+      ]
+    },
+    "text_for_embedding": "RGMCET Controller of Examinations Contact | Category: examinations | Subcategory: contact | Keywords: RGMCET exam contact, controller of examinations RGMCET, RGMCET results contact, exam branch RGMCET, COE RGMCET | The Examination Section of RGMCET is headed by the Controller of Examinations. Students can contact the examination branch for queries related to examinations, results, and academic records. The Controller of Examinations is Dr. D. Satyanarayana.",
+    "images": [
+  {
+    "name": "Dr. D. Satyanarayana",
+    "designation": "Controller of Examinations",
+    "contact": "+91-9866308471",
+    "email": "rgmcet09_exams@rgmcet.edu.in"
+  }
+]
+  },
+  {
+    "id": "examinations_malpractice_rules_1",
+    "category": "examinations",
+    "subcategory": "rules",
+    "department": null,
+    "title": "RGMCET Examination Malpractice Rules",
+    "url": "RGMCET Examination Rules",
+    "content": "RGMCET enforces strict disciplinary action for examination malpractice. Students found with unauthorized materials, copying, impersonation, misbehavior, or disrupting examinations may face penalties such as expulsion from the exam hall, cancellation of results, or debarment from future examinations depending on the severity of the offence.",
+    "keywords": [
+      "RGMCET exam rules",
+      "malpractice punishment",
+      "copying in exam penalty",
+      "unfair means RGMCET",
+      "exam disciplinary action"
+    ],
+    "metadata": {
+      "entity_type": "exam_rules"
+    },
+    "key_offences": [
+      "Possession of unauthorized materials such as notes, mobile phones, or programmable devices in the exam hall.",
+      "Copying or receiving or giving assistance during examinations.",
+      "Impersonation in examinations.",
+      "Smuggling answer scripts or question papers.",
+      "Using abusive or offensive language in answer scripts.",
+      "Misbehavior or disturbance in the examination hall.",
+      "Taking away or tearing answer scripts.",
+      "Possessing lethal weapons in the exam hall.",
+      "Appearing for exams in drunken condition.",
+      "Malpractice detected during valuation."
+    ],
+    "major_penalties": [
+      "Expulsion from the examination hall.",
+      "Cancellation of performance in one or more subjects.",
+      "Debarment for two consecutive semesters in serious cases.",
+      "Forfeiture of seat in severe violations."
+    ],
+    "text_for_embedding": "RGMCET Examination Malpractice Rules | Category: examinations | Subcategory: rules | Keywords: RGMCET exam rules, malpractice punishment, copying in exam penalty, unfair means RGMCET, exam disciplinary action | RGMCET enforces strict disciplinary action for examination malpractice. Students found with unauthorized materials, copying, impersonation, misbehavior, or disrupting examinations may face penalties such as expulsion from the exam hall, cancellation of results, or debarment from future examinations depending on the severity of the offence.",
+    "images": []
+  }
+]

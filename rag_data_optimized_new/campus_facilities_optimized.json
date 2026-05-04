@@ -1,0 +1,290 @@
+[
+  {
+    "id": "campus_amenities_1",
+    "category": "campus_life",
+    "subcategory": "amenities",
+    "department": null,
+    "title": "RGMCET General Campus Amenities",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "RGMCET provides essential campus amenities including banking, healthcare, food services, and communication facilities to support students and staff.",
+    "keywords": [
+      "RGMCET campus facilities",
+      "college amenities RGMCET",
+      "SBI ATM campus",
+      "canteen medical facility",
+      "student facilities RGMCET"
+    ],
+    "metadata": {
+      "entity_type": "amenities"
+    },
+    "facilities": [
+      "State Bank of India branch",
+      "SBI ATM",
+      "Post Office",
+      "Courier service",
+      "Bookstore for textbooks and stationery",
+      "Copier facilities",
+      "Ambulance service",
+      "Telecom center",
+      "Stationery shop"
+    ],
+    "canteen": {
+      "available": true,
+      "description": "Canteen facility provides snacks, coffee, tea, and refreshments throughout college hours."
+    },
+    "health_center": {
+      "available": true,
+      "timings": "9:00 AM to 6:00 PM",
+      "staff": [
+        "Qualified Medical Officer",
+        "Three nursing staff"
+      ]
+    },
+    "text_for_embedding": "RGMCET General Campus Amenities | Category: campus_life | Subcategory: amenities | Keywords: RGMCET campus facilities, college amenities RGMCET, SBI ATM campus, canteen medical facility, student facilities RGMCET | RGMCET provides essential campus amenities including banking, healthcare, food services, and communication facilities to support students and staff. | facilities: State Bank of India branch, SBI ATM, Post Office, Courier service, Bookstore for textbooks and stationery, Copier facilities, Ambulance service, Telecom center, Stationery shop",
+    "images": [{
+      "url": "https://www.rgmcet.edu.in/assets/img/facilities/Playground.JPG",
+      "name": "PlayGround"
+    },
+  {
+      "url": "https://www.rgmcet.edu.in/assets/img/facilities/canteen.JPG",
+      "name": "Canteeen"
+    }]
+  },
+  {
+    "id": "campus_library_overview_1",
+    "category": "campus_life",
+    "subcategory": "library",
+    "department": null,
+    "title": "RGMCET Central Library Overview",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The RGMCET Central Library is housed in a fully air-conditioned three-storied building with a large collection of books, journals, digital resources, and internet facilities for students and faculty.",
+    "keywords": [
+      "RGMCET library",
+      "central library RGMCET",
+      "library books journals",
+      "digital library RGMCET",
+      "library facilities"
+    ],
+    "metadata": {
+      "entity_type": "library"
+    },
+    "collection_summary": {
+      "titles": 12741,
+      "total_books": 75935,
+      "print_journals": 150,
+      "back_volumes": 3144
+    },
+    "floors": {
+      "ground_floor": "Book issue section including SC/ST book bank collections.",
+      "first_floor": "Reference section with encyclopedias, dictionaries, and prescribed textbooks for in-library use.",
+      "second_floor": "Journals section, digital library, discussion rooms, staff reading room, and video rooms."
+    },
+    "features": [
+      "Cubical seating for individual study",
+      "Internet facilities",
+      "Reprographic services",
+      "Digital library access"
+    ],
+    "text_for_embedding": "RGMCET Central Library Overview | Category: campus_life | Subcategory: library | Keywords: RGMCET library, central library RGMCET, library books journals, digital library RGMCET, library facilities | The RGMCET Central Library is housed in a fully air-conditioned three-storied building with a large collection of books, journals, digital resources, and internet facilities for students and faculty.",
+    "images": [{
+      "url": "https://www.rgmcet.edu.in/assets/img/bg/library_10.png",
+      "name": "Library"
+    }]
+  },
+  {
+    "id": "campus_library_digital_1",
+    "category": "campus_life",
+    "subcategory": "library",
+    "department": null,
+    "title": "RGMCET Library Digital Resources",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "RGMCET Central Library provides access to major digital resources including IEEE Xplore, Taylor and Francis, NLIST, DELNET, J-Gate Plus, National Digital Library of India, and NPTEL video lectures.",
+    "keywords": [
+      "RGMCET digital library",
+      "IEEE Xplore access",
+      "NPTEL RGMCET",
+      "DELNET membership",
+      "online journals RGMCET"
+    ],
+    "metadata": {
+      "entity_type": "library"
+    },
+    "subscriptions": [
+      "IEEE Xplore Digital Library",
+      "Taylor and Francis Digital Library",
+      "NLIST from INFLIBNET",
+      "DELNET",
+      "J-Gate Plus",
+      "National Digital Library of India",
+      "e-PG Pathshala",
+      "NPTEL Video Lectures"
+    ],
+    "memberships": [
+      "DELNET",
+      "INFLIBNET",
+      "NDL National Digital Library of India",
+      "JNTUA Consortium"
+    ],
+    "infrastructure": {
+      "bandwidth": "1 Gbps campus network",
+      "library_software": "KOHA with RFID (LibSys LSEase)",
+      "nptel_access_systems": 12
+    },
+    "text_for_embedding": "RGMCET Library Digital Resources | Category: campus_life | Subcategory: library | Keywords: RGMCET digital library, IEEE Xplore access, NPTEL RGMCET, DELNET membership, online journals RGMCET | RGMCET Central Library provides access to major digital resources including IEEE Xplore, Taylor and Francis, NLIST, DELNET, J-Gate Plus, National Digital Library of India, and NPTEL video lectures.",
+    "images": [
+  {
+    "url": "https://www.rgmcet.edu.in/assets/img/New_Library1.jpg",
+    "name": "RGMCET Central Library Digital Section"
+  },
+  {
+    "url": "data:image/jpeg;base64,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",
+    "name": "RGMCET Digital Library Access"
+  }
+]
+  },
+  {
+    "id": "library_working_rules_1",
+    "category": "campus_life",
+    "subcategory": "library",
+    "department": null,
+    "title": "Library Working Hours and Borrowing Rules",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The Central Library operates on all working days with defined borrowing and circulation policies.",
+    "keywords": [
+      "RGMCET library timings",
+      "library working hours",
+      "library borrowing policy",
+      "library fine rules",
+      "central library schedule"
+    ],
+    "metadata": {
+      "entity_type": "library"
+    },
+    "working_hours": {
+      "library": "8:00 AM to 8:00 PM",
+      "issue_counter": "9:30 AM to 5:30 PM"
+    },
+    "loan_policy": {
+      "ug_year_1_2": 3,
+      "ug_year_3_4": 4,
+      "pg_students": 4,
+      "faculty_period": "1 month",
+      "student_period": "14 days",
+      "renewals_allowed": 2
+    },
+    "overdue_fine": {
+      "first_7_days": "Rs 1 per day",
+      "after_7_days": "Rs 2 per day"
+    },
+    "text_for_embedding": "Library Working Hours and Borrowing Rules | Category: campus_life | Subcategory: library | Keywords: RGMCET library timings, library working hours, library borrowing policy, library fine rules, central library schedule | The Central Library operates on all working days with defined borrowing and circulation policies.",
+    "images": []
+  },
+  {
+    "id": "library_general_rules_1",
+    "category": "campus_life",
+    "subcategory": "library",
+    "department": null,
+    "title": "Library General Rules and Regulations",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "Library users must follow strict discipline and borrowing rules while using the RGMCET Central Library.",
+    "keywords": [
+      "RGMCET library rules",
+      "library discipline rules",
+      "library ID card required",
+      "library silence policy",
+      "library book loss policy"
+    ],
+    "metadata": {
+      "entity_type": "library"
+    },
+    "rules": [
+      "Wearing ID card is compulsory inside the library.",
+      "Entry in visitors register is mandatory.",
+      "Strict silence must be maintained.",
+      "Mobile phone usage is prohibited.",
+      "No eatables or drinks allowed inside.",
+      "Books will be issued subject to availability only.",
+      "No sub-lending of books is permitted.",
+      "Personal books or printed material are not allowed inside.",
+      "Reference books, newspapers, magazines, and journals cannot be taken outside."
+    ],
+    "loss_policy": [
+      "Loss of books must be reported immediately to the librarian.",
+      "Borrower must replace the lost book with a similar copy.",
+      "If not replaced in time, twice the cost plus fine will be charged."
+    ],
+    "text_for_embedding": "Library General Rules and Regulations | Category: campus_life | Subcategory: library | Keywords: RGMCET library rules, library discipline rules, library ID card required, library silence policy, library book loss policy | Library users must follow strict discipline and borrowing rules while using the RGMCET Central Library.",
+    "images": []
+  },
+  {
+    "id": "campus_transport_1",
+    "category": "campus_life",
+    "subcategory": "transport",
+    "department": null,
+    "title": "RGMCET College Transportation Services",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "RGMCET operates college bus services from major nearby towns to the campus on all working days. Students opting for transportation must pay the prescribed bus fee at the beginning of each academic year.",
+    "keywords": [
+      "RGMCET bus routes",
+      "college transport",
+      "bus facility RGMCET",
+      "transport fee",
+      "Nandyal college bus"
+    ],
+    "metadata": {
+      "entity_type": "transport"
+    },
+    "service_notes": [
+      "Bus services operate on all working days.",
+      "Students must pay transportation fees as per college norms.",
+      "Routes cover major towns around Nandyal."
+    ],
+    "routes": [
+      {
+        "route_no": 1,
+        "starting_point": "Konda Reddy Buruju (Kurnool)",
+        "destination": "RGMCET"
+      },
+      {
+        "route_no": 2,
+        "starting_point": "ATK Bus Stand (Nandyal)",
+        "destination": "RGMCET"
+      },
+      {
+        "route_no": 3,
+        "starting_point": "Padmavathi Nagar Arch (Nandyal)",
+        "destination": "RGMCET"
+      },
+      {
+        "route_no": 4,
+        "starting_point": "Padmavathi Nagar Arch (Nandyal)",
+        "destination": "RGMCET"
+      },
+      {
+        "route_no": 5,
+        "starting_point": "Nandikotkur",
+        "destination": "RGMCET"
+      },
+      {
+        "route_no": 6,
+        "starting_point": "Allagadda",
+        "destination": "RGMCET"
+      },
+      {
+        "route_no": 7,
+        "starting_point": "Koilkuntla",
+        "destination": "RGMCET"
+      },
+      {
+        "route_no": 8,
+        "starting_point": "Banaganapalli",
+        "destination": "RGMCET"
+      }
+    ],
+    "text_for_embedding": "RGMCET College Transportation Services | Category: campus_life | Subcategory: transport | Keywords: RGMCET bus routes, college transport, bus facility RGMCET, transport fee, Nandyal college bus | RGMCET operates college bus services from major nearby towns to the campus on all working days. Students opting for transportation must pay the prescribed bus fee at the beginning of each academic year.",
+    "images": [{
+      "url": "data:image/jpeg;base64,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",
+      "name": "College Bus"
+    }]
+  }
+]

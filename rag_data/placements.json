@@ -1,0 +1,223 @@
+[
+{
+  "id": "placements_overview_1",
+  "category": "placements",
+  "subcategory": "overview",
+  "department": null,
+  "title": "RGMCET Training and Placement Cell Overview",
+  "url": "https://www.rgmcet.edu.in",
+  "content": "The Training and Placement (T&P) Cell at RGMCET operates through a structured committee including the Placement Officer, faculty coordinators, and student representatives from each department. The cell prepares annual training plans to improve student employability and bridge the gap between academic learning and industry requirements through training programs, alumni seminars, campus recruitment drives, internships, and soft-skill development sessions.",
+  "keywords": [
+    "RGMCET placement cell",
+    "training and placement RGMCET",
+    "campus placements RGMCET",
+    "placement training programs",
+    "T&P cell RGMCET"
+  ],
+  "metadata": {
+    "entity_type": "placement_overview"
+  },
+  "objectives": [
+    "Provide awareness to students about industry-required skills.",
+    "Reduce the gap between academics and industry needs.",
+    "Conduct alumni seminars from reputed MNC professionals.",
+    "Provide campus interview opportunities.",
+    "Facilitate student internships.",
+    "Organize technical and employability skill sessions."
+  ]
+},
+{
+  "id": "placements_statistics_1",
+  "category": "placements",
+  "subcategory": "statistics",
+  "department": null,
+  "title": "RGMCET Placement Statistics (Last 10 Years)",
+  "url": "https://www.rgmcet.edu.in/Placement_Records",
+  "content": "RGMCET consistently attracts multinational companies for campus recruitment. In recent years, the college recorded 900 offers in 2023-24, 471 offers in 2024-25, and 1448 offers in 2021-22. The number of recruiting companies has ranged from about 20 to over 70 per year.",
+  "keywords": [
+    "RGMCET placement statistics",
+    "placement percentage RGMCET",
+    "campus recruitment record",
+    "companies visited RGMCET",
+    "highest placements RGMCET"
+  ],
+  "metadata": {
+    "entity_type": "placement_statistics"
+  },
+  "placement_data": [
+    {
+      "academic_year": "2025-26",
+      "student_offers": 11,
+      "companies_visited": 5,
+      "details_url": "https://www.rgmcet.edu.in/Placement_Records",
+      "note": "In progress"
+    },
+    {
+      "academic_year": "2024-25",
+      "student_offers": 471,
+      "companies_visited": 20,
+      "details_url": "https://www.rgmcet.edu.in/Placement_Records"
+    },
+    {
+      "academic_year": "2023-24",
+      "student_offers": 900,
+      "companies_visited": 44,
+      "details_url": "https://www.rgmcet.edu.in/Placement_Records"
+    },
+    {
+      "academic_year": "2022-23",
+      "student_offers": 732,
+      "companies_visited": 45,
+      "details_url": "https://www.rgmcet.edu.in/Placement_Records"
+    },
+    {
+      "academic_year": "2021-22",
+      "student_offers": 1448,
+      "companies_visited": 52,
+      "details_url": "https://www.rgmcet.edu.in/Placement_Records"
+    },
+    {
+      "academic_year": "2020-21",
+      "student_offers": 1014,
+      "companies_visited": 74,
+      "details_url": "https://www.rgmcet.edu.in/Placement_Records"
+    },
+    {
+      "academic_year": "2019-20",
+      "student_offers": 773,
+      "companies_visited": 64,
+      "details_url": "https://www.rgmcet.edu.in/Placement_Records"
+    },
+    {
+      "academic_year": "2018-19",
+      "student_offers": 706,
+      "companies_visited": 66,
+      "details_url": "https://www.rgmcet.edu.in/Placement_Records"
+    },
+    {
+      "academic_year": "2017-18",
+      "student_offers": 542,
+      "companies_visited": 59,
+      "details_url": "https://www.rgmcet.edu.in/Placement_Records"
+    },
+    {
+      "academic_year": "2016-17",
+      "student_offers": 387,
+      "companies_visited": 41,
+      "details_url": "https://www.rgmcet.edu.in/Placement_Records"
+    },
+    {
+      "academic_year": "2015-16",
+      "student_offers": 401,
+      "companies_visited": 44,
+      "details_url": "https://www.rgmcet.edu.in/Placement_Records"
+    }
+  ]
+},
+{
+  "id": "placements_internship_guidelines_1",
+  "category": "placements",
+  "subcategory": "internships",
+  "department": null,
+  "title": "RGMCET Internship and Industrial Training Guidelines",
+  "url": "https://www.rgmcet.edu.in",
+  "content": "RGMCET provides structured guidelines for students pursuing internships during summer vacation. Students may apply to industries or reputed institutes such as IITs, IISc, IIITs, NITs, IIMs, and ISB. Internships must be relevant to the student's engineering branch and typically carry academic credit.",
+  "keywords": [
+    "RGMCET internship rules",
+    "industrial training RGMCET",
+    "summer internship guidelines",
+    "internship credits RGMCET",
+    "engineering internship policy"
+  ],
+  "metadata": {
+    "entity_type": "internship_guidelines"
+  },
+  "key_rules": [
+    "Minimum internship duration is three weeks and carries 2 credits (not counted for CGPA).",
+    "Students may apply individually or in teams of up to four members.",
+    "Students must obtain a recommendation letter from the Head of Department.",
+    "Consent letter from the host organization must be submitted at least one month before the next semester begins.",
+    "Students must follow the rules and code of conduct of the host organization.",
+    "Students bear expenses for travel, food, and accommodation unless stipend is provided.",
+    "Students must submit an internship report after completion."
+  ]
+},
+{
+  "id": "internship_evaluation_1",
+  "category": "placements",
+  "subcategory": "internships",
+  "title": "Internship Project Work and Evaluation",
+  "url": "https://www.rgmcet.edu.in",
+  "content": "Internship project work at RGMCET is jointly supervised by an internal faculty member and an external industry supervisor. Student performance is evaluated based on quality of work, learning ability, attendance, and professional behavior.",
+  "evaluation_rules": [
+    "Students must work under both internal and external supervisors.",
+    "Students must stay in contact with the internal supervisor during the internship.",
+    "External supervisor or HR evaluates performance and sends report to the college.",
+    "Students who fail to secure minimum required marks must repeat the final semester.",
+    "Project report signed by both supervisors must be submitted to the department.",
+    "A completion certificate from the host organization must be included.",
+    "Students must also submit a brief internship experience report."
+  ]
+},
+{
+  "id": "placement_latest_news_1",
+  "category": "placements",
+  "subcategory": "news",
+  "title": "Training and Placement Latest News",
+  "url": "https://www.rgmcet.edu.in",
+  "content": "The Training and Placement Cell regularly announces placement drives, recruitment updates, and student placement achievements.",
+  "highlights": [
+    "On-campus drive by ZAZZ IT Solutions Pvt. Ltd., Hyderabad on 07-02-2024 for IV B.Tech CSE-related branches.",
+    "JUSPAY online exam scheduled on 17-04-2021 for IV B.Tech students.",
+    "53 students (2016 batch) placed in TCS with package Rs 3.37 LPA.",
+    "29 students (2016 batch) placed in Infosys with package Rs 3.60 LPA.",
+    "105 students (2016 batch) placed in CTS with package Rs 3.60 LPA.",
+    "49 students (2016 batch) placed in Wipro Technologies with package Rs 3.60 LPA.",
+    "20 students (2016 batch) placed in Birlasoft with package Rs 3.25 LPA.",
+    "04 students (2016 batch) placed in FullHouzz with package Rs 1.80 LPA.",
+    "Multiple companies including CGI, GlobalEdge, West Agile Labs, L-Cube, Buzi Brains, Codilar, and Aliens Group conducted recruitment drives during 2019–2020."
+  ]
+},
+{
+  "id": "placements_internship_eligibility_1",
+  "category": "placements",
+  "subcategory": "internships",
+  "department": null,
+  "title": "RGMCET Internship Eligibility Criteria",
+  "url": "https://www.rgmcet.edu.in",
+  "content": "To be eligible for internships at RGMCET, students must maintain a minimum CGPA of 6.5 without active backlogs and secure at least 75% attendance in each semester.",
+  "keywords": [
+    "RGMCET internship eligibility",
+    "minimum CGPA internship",
+    "attendance requirement internship",
+    "internship criteria RGMCET",
+    "who can apply internship"
+  ],
+  "metadata": {
+    "entity_type": "internship_eligibility"
+  },
+  "criteria": [
+    "Minimum CGPA of 6.5 without active backlogs at the end of III Year II Semester.",
+    "Minimum 75% attendance in every semester up to IV Year I Semester."
+  ]
+},
+{
+  "id": "placements_training_events_1",
+  "category": "placements",
+  "subcategory": "training",
+  "department": null,
+  "title": "RGMCET Placement Training Events",
+  "url": "https://www.rgmcet.edu.in",
+  "content": "RGMCET conducts phased placement training programs for final year B.Tech students. For example, the third phase of placement training for IV B.Tech students commenced on 01-10-2019.",
+  "keywords": [
+    "placement training RGMCET",
+    "aptitude training",
+    "placement preparation",
+    "training phase RGMCET",
+    "pre placement training"
+  ],
+  "metadata": {
+    "entity_type": "training_event"
+  }
+}
+]

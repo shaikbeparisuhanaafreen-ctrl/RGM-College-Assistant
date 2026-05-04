@@ -1,0 +1,153 @@
+
+[
+{
+  "id": "about_overview_1",
+  "category": "about",
+  "subcategory": "overview",
+  "title": "RGMCET College Overview",
+  "url": "https://www.rgmcet.edu.in/about-us",
+  "content": "Rajeev Gandhi Memorial College of Engineering and Technology (RGMCET), Nandyal, was inaugurated on 09 March 1996 by Late Sri P. V. Narasimha Rao and Sri N. Chandrababu Naidu. The institute is one of the leading engineering colleges in Andhra Pradesh and has permanent affiliation with JNTUA Anantapuramu. RGMCET was granted Autonomous status by UGC in 2010 and continuously updates its curriculum to meet industry and societal needs.",
+  "keywords": [
+    "RGMCET",
+    "engineering college Nandyal",
+    "RGMCET overview",
+    "JNTUA affiliation",
+    "autonomous college"
+  ],
+  "metadata": {
+    "entity_type": "college_info"
+  }
+},
+{
+  "id": "about_accreditation_1",
+  "category": "about",
+  "subcategory": "accreditation",
+  "title": "RGMCET Accreditations and Certifications",
+  "url": "https://www.rgmcet.edu.in/about-us",
+  "content": "All eligible undergraduate programs at RGMCET have been accredited multiple times by NBA, most recently under the Tier-I category. The institute is accredited by NAAC with an A+ grade (CGPA 3.54/4.0). RGMCET is ISO 9001:2008 certified, recognized by DSIR for research equipment benefits, and participated in the World Bank assisted TEQIP-I program for quality improvement.",
+  "keywords": [
+    "RGMCET NAAC A+",
+    "NBA Tier-I",
+    "ISO 9001:2008",
+    "TEQIP",
+    "DSIR recognition"
+  ],
+  "metadata": {
+    "entity_type": "accreditation"
+  }
+},
+{
+  "id": "about_overview_2",
+  "category": "about",
+  "subcategory": "overview",
+  "title": "RGMCET Institutional Achievements",
+  "url": "https://www.rgmcet.edu.in/about-us",
+  "content": "The Jawahar Knowledge Center at RGMCET has been awarded Best JKC Center twice by the Government of Andhra Pradesh for highest campus placements. The institute hosts the Deen Dayal Upadhyaya KAUSHAL Kendra and was recognized as a College with Potential for Excellence by UGC in 2016. RGMCET is also recognized as a SIEMENS Technical Skill Development Institute in association with APSSDC.",
+  "keywords": [
+    "RGMCET achievements",
+    "Best JKC Center",
+    "UGC CPE",
+    "SIEMENS TSDI",
+    "skill development RGMCET"
+  ],
+  "metadata": {
+    "entity_type": "achievement"
+  }
+},
+{
+  "id": "about_vision_1",
+  "category": "about",
+  "subcategory": "vision_mission",
+  "title": "RGMCET Vision",
+  "url": "https://www.rgmcet.edu.in/about-us",
+  "content": "The vision of RGMCET is to develop the rural-based institution into a center of technical education with global standards, to become an institute of excellence serving societal needs, and to promote value-based education with the goal of Education for Peace and Progress.",
+  "keywords": [
+    "RGMCET vision",
+    "Education for Peace and Progress",
+    "college vision",
+    "technical education vision"
+  ],
+  "metadata": {
+    "entity_type": "vision"
+  }
+},
+{
+  "id": "about_mission_1",
+  "category": "about",
+  "subcategory": "vision_mission",
+  "title": "RGMCET Mission",
+  "url": "https://www.rgmcet.edu.in/about-us",
+  "content": "RGMCET aims to build world-class undergraduate and postgraduate programs, create a strong research and innovation environment, transform graduates into entrepreneurs, strengthen industry–institute collaboration, and offer demand-driven courses while promoting human values and ethics.",
+  "keywords": [
+    "RGMCET mission",
+    "engineering education mission",
+    "industry institute interaction",
+    "entrepreneurship education"
+  ],
+  "metadata": {
+    "entity_type": "mission"
+  }
+},
+{
+  "id": "about_quality_policy_1",
+  "category": "about",
+  "subcategory": "overview",
+  "title": "RGMCET Quality Policy",
+  "url": "https://www.rgmcet.edu.in/about-us",
+  "content": "RGMCET is committed to continuously improving teaching and learning processes, regularly evaluating student performance, developing centers of excellence for research and consultancy, and preparing students to compete globally while serving the nation responsibly.",
+  "keywords": [
+    "RGMCET quality policy",
+    "teaching learning improvement",
+    "centers of excellence",
+    "global competence students"
+  ],
+  "metadata": {
+    "entity_type": "policy"
+  }
+},
+{
+  "id": "about_overview_identity_1",
+  "category": "about",
+  "subcategory": "overview",
+  "department": null,
+  "title": "RGMCET College Identity and Portals",
+  "url": "https://www.rgmcet.edu.in",
+  "content": "Rajeev Gandhi Memorial College of Engineering and Technology (RGMCET) is an autonomous institution approved by AICTE, New Delhi, and affiliated to JNTUA Anantapuramu. The counselling code of the institution is RGIT. Important online portals include the Exams Portal, Faculty Login, Student Login, and Alumni Login.",
+  "keywords": [
+    "RGMCET counselling code",
+    "RGIT code",
+    "AICTE approved college",
+    "RGMCET affiliation",
+    "RGMCET student login"
+  ],
+  "metadata": {
+    "entity_type": "college"
+  },
+  "institution": {
+    "full_name": "Rajeev Gandhi Memorial College of Engineering and Technology",
+    "short_name": "RGMCET",
+    "autonomous_status": true,
+    "approved_by": "AICTE, New Delhi",
+    "affiliated_to": "JNTUA Anantapuramu",
+    "counselling_code": "RGIT"
+  },
+  "quick_links": [
+    {
+      "name": "Exams Portal",
+      "url": "https://rgmexams.co.in/"
+    },
+    {
+      "name": "Faculty Login",
+      "url": "https://www.rgmcet.edu.in/rgmwebsite/index.php"
+    },
+    {
+      "name": "Student Login",
+      "url": "https://rgmexams.co.in/"
+    },
+    {
+      "name": "Alumni Login",
+      "url": "https://alumni.rgmcet.edu.in/"
+    }
+  ]
+}
+]

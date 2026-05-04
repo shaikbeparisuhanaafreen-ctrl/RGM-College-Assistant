@@ -1,0 +1,64 @@
+[
+  {
+    "id": "contact_primary_1",
+    "category": "contact",
+    "subcategory": "primary",
+    "department": null,
+    "title": "RGMCET Official Contact Details",
+    "url": "https://www.rgmcet.edu.in/contact",
+    "content": "Rajeev Gandhi Memorial College of Engineering and Technology (RGMCET) is located at Nerawada X Roads, Nandyal – 518501, Andhra Pradesh, India. Official email contacts include principal.9@jntua.ac.in and principal@rgmcet.edu.in. The main phone numbers are +91-9866308422, +91-9866308423, and 08514-275203. Fax number: 08514-275123.",
+    "keywords": [
+      "RGMCET contact",
+      "RGMCET phone number",
+      "RGMCET address",
+      "RGMCET email",
+      "engineering college Nandyal contact"
+    ],
+    "metadata": {
+      "entity_type": "contact"
+    },
+    "contact": {
+      "address": "Nerawada X Roads, Nandyal - 518501, Andhra Pradesh, India",
+      "emails": [
+        "principal.9@jntua.ac.in",
+        "principal@rgmcet.edu.in"
+      ],
+      "phones": [
+        "+91-9866308422",
+        "+91-9866308423",
+        "08514-275203"
+      ],
+      "fax": "08514-275123"
+    },
+    "text_for_embedding": "RGMCET Official Contact Details | Category: contact | Subcategory: primary | Keywords: RGMCET contact, RGMCET phone number, RGMCET address, RGMCET email, engineering college Nandyal contact | Rajeev Gandhi Memorial College of Engineering and Technology (RGMCET) is located at Nerawada X Roads, Nandyal – 518501, Andhra Pradesh, India. Official email contacts include principal.9@jntua.ac.in and principal@rgmcet.edu.in. The main phone numbers are +91-9866308422, +91-9866308423, and 08514-275203. Fax number: 08514-275123.",
+    "images": [
+  {
+    "url": "https://www.rgmcet.edu.in/assets/img/administrators/principal.jpg",
+    "name": "Dr. T Jayachandra Prasad",
+    "designation": "Principal",
+    "contact":"+91-9440290470",
+    "email":"principal.9@jntua.ac.in",
+    "qualification": "",
+    "faculty_id": ""
+  },
+  {
+    "url": "https://www.rgmcet.edu.in/assets/img/administrators/dad.jpg",
+    "name": "Dr. D.V. Ashok Kumar",
+    "designation": "Dean-Admin. & Director Placements",
+    "contact":"+91-9866308477",
+    "email":"dad@rgmcet.edu.in",
+    "qualification": "",
+    "faculty_id": ""
+  },
+  {
+    "url": "https://www.rgmcet.edu.in/assets/img/administrators/dos.jpg",
+    "name": "Dr. B.Rami Reddy",
+    "designation": "Dean - Student Affairs",
+    "contact":"+91-9442079377",
+    "email":"ramireddy@pec.edu",
+    "qualification": "",
+    "faculty_id": ""
+  }
+]
+  }
+]

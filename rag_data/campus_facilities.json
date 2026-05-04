@@ -1,0 +1,224 @@
+[
+  {
+    "id": "campus_amenities_1",
+    "category": "campus_life",
+    "subcategory": "amenities",
+    "department": null,
+    "title": "RGMCET General Campus Amenities",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "RGMCET provides essential campus amenities including banking, healthcare, food services, and communication facilities to support students and staff.",
+    "keywords": [
+      "RGMCET campus facilities",
+      "college amenities RGMCET",
+      "SBI ATM campus",
+      "canteen medical facility",
+      "student facilities RGMCET"
+    ],
+    "metadata": {
+      "entity_type": "amenities"
+    },
+    "facilities": [
+      "State Bank of India branch",
+      "SBI ATM",
+      "Post Office",
+      "Courier service",
+      "Bookstore for textbooks and stationery",
+      "Copier facilities",
+      "Ambulance service",
+      "Telecom center",
+      "Stationery shop"
+    ],
+    "canteen": {
+      "available": true,
+      "description": "Canteen facility provides snacks, coffee, tea, and refreshments throughout college hours."
+    },
+    "health_center": {
+      "available": true,
+      "timings": "9:00 AM to 6:00 PM",
+      "staff": [
+        "Qualified Medical Officer",
+        "Three nursing staff"
+      ]
+    }
+  },
+  {
+    "id": "campus_library_overview_1",
+    "category": "campus_life",
+    "subcategory": "library",
+    "department": null,
+    "title": "RGMCET Central Library Overview",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The RGMCET Central Library is housed in a fully air-conditioned three-storied building with a large collection of books, journals, digital resources, and internet facilities for students and faculty.",
+    "keywords": [
+      "RGMCET library",
+      "central library RGMCET",
+      "library books journals",
+      "digital library RGMCET",
+      "library facilities"
+    ],
+    "metadata": {
+      "entity_type": "library"
+    },
+    "collection_summary": {
+      "titles": 12741,
+      "total_books": 75935,
+      "print_journals": 150,
+      "back_volumes": 3144
+    },
+    "floors": {
+      "ground_floor": "Book issue section including SC/ST book bank collections.",
+      "first_floor": "Reference section with encyclopedias, dictionaries, and prescribed textbooks for in-library use.",
+      "second_floor": "Journals section, digital library, discussion rooms, staff reading room, and video rooms."
+    },
+    "features": [
+      "Cubical seating for individual study",
+      "Internet facilities",
+      "Reprographic services",
+      "Digital library access"
+    ]
+  },
+  {
+    "id": "campus_library_digital_1",
+    "category": "campus_life",
+    "subcategory": "library",
+    "department": null,
+    "title": "RGMCET Library Digital Resources",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "RGMCET Central Library provides access to major digital resources including IEEE Xplore, Taylor and Francis, NLIST, DELNET, J-Gate Plus, National Digital Library of India, and NPTEL video lectures.",
+    "keywords": [
+      "RGMCET digital library",
+      "IEEE Xplore access",
+      "NPTEL RGMCET",
+      "DELNET membership",
+      "online journals RGMCET"
+    ],
+    "metadata": {
+      "entity_type": "library"
+    },
+    "subscriptions": [
+      "IEEE Xplore Digital Library",
+      "Taylor and Francis Digital Library",
+      "NLIST from INFLIBNET",
+      "DELNET",
+      "J-Gate Plus",
+      "National Digital Library of India",
+      "e-PG Pathshala",
+      "NPTEL Video Lectures"
+    ],
+    "memberships": [
+      "DELNET",
+      "INFLIBNET",
+      "NDL National Digital Library of India",
+      "JNTUA Consortium"
+    ],
+    "infrastructure": {
+      "bandwidth": "1 Gbps campus network",
+      "library_software": "KOHA with RFID (LibSys LSEase)",
+      "nptel_access_systems": 12
+    }
+  },
+  {
+    "id": "library_working_rules_1",
+    "category": "campus_life",
+    "subcategory": "library",
+    "department": null,
+    "title": "Library Working Hours and Borrowing Rules",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The Central Library operates on all working days with defined borrowing and circulation policies.",
+    "keywords": [
+      "RGMCET library timings",
+      "library working hours",
+      "library borrowing policy",
+      "library fine rules",
+      "central library schedule"
+    ],
+    "metadata": {
+      "entity_type": "library"
+    },
+    "working_hours": {
+      "library": "8:00 AM to 8:00 PM",
+      "issue_counter": "9:30 AM to 5:30 PM"
+    },
+    "loan_policy": {
+      "ug_year_1_2": 3,
+      "ug_year_3_4": 4,
+      "pg_students": 4,
+      "faculty_period": "1 month",
+      "student_period": "14 days",
+      "renewals_allowed": 2
+    },
+    "overdue_fine": {
+      "first_7_days": "Rs 1 per day",
+      "after_7_days": "Rs 2 per day"
+    }
+  },
+  {
+    "id": "library_general_rules_1",
+    "category": "campus_life",
+    "subcategory": "library",
+    "department": null,
+    "title": "Library General Rules and Regulations",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "Library users must follow strict discipline and borrowing rules while using the RGMCET Central Library.",
+    "keywords": [
+      "RGMCET library rules",
+      "library discipline rules",
+      "library ID card required",
+      "library silence policy",
+      "library book loss policy"
+    ],
+    "metadata": {
+      "entity_type": "library"
+    },
+    "rules": [
+      "Wearing ID card is compulsory inside the library.",
+      "Entry in visitors register is mandatory.",
+      "Strict silence must be maintained.",
+      "Mobile phone usage is prohibited.",
+      "No eatables or drinks allowed inside.",
+      "Books will be issued subject to availability only.",
+      "No sub-lending of books is permitted.",
+      "Personal books or printed material are not allowed inside.",
+      "Reference books, newspapers, magazines, and journals cannot be taken outside."
+    ],
+    "loss_policy": [
+      "Loss of books must be reported immediately to the librarian.",
+      "Borrower must replace the lost book with a similar copy.",
+      "If not replaced in time, twice the cost plus fine will be charged."
+    ]
+  },
+  {
+    "id": "campus_transport_1",
+    "category": "campus_life",
+    "subcategory": "transport",
+    "department": null,
+    "title": "RGMCET College Transportation Services",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "RGMCET operates college bus services from major nearby towns to the campus on all working days. Students opting for transportation must pay the prescribed bus fee at the beginning of each academic year.",
+    "keywords": [
+      "RGMCET bus routes",
+      "college transport",
+      "bus facility RGMCET",
+      "transport fee",
+      "Nandyal college bus"
+    ],
+    "metadata": {
+      "entity_type": "transport"
+    },
+    "service_notes": [
+      "Bus services operate on all working days.",
+      "Students must pay transportation fees as per college norms.",
+      "Routes cover major towns around Nandyal."
+    ],
+    "routes": [
+      { "route_no": 1, "starting_point": "Konda Reddy Buruju (Kurnool)", "destination": "RGMCET" },
+      { "route_no": 2, "starting_point": "ATK Bus Stand (Nandyal)", "destination": "RGMCET" },
+      { "route_no": 3, "starting_point": "Padmavathi Nagar Arch (Nandyal)", "destination": "RGMCET" },
+      { "route_no": 4, "starting_point": "Padmavathi Nagar Arch (Nandyal)", "destination": "RGMCET" },
+      { "route_no": 5, "starting_point": "Nandikotkur", "destination": "RGMCET" },
+      { "route_no": 6, "starting_point": "Allagadda", "destination": "RGMCET" },
+      { "route_no": 7, "starting_point": "Koilkuntla", "destination": "RGMCET" },
+      { "route_no": 8, "starting_point": "Banaganapalli", "destination": "RGMCET" }
+    ]
+  }
+]

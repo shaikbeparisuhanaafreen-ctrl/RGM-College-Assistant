@@ -1,0 +1,589 @@
+[
+  {
+    "id": "dept_cseaiml_overview_1",
+    "category": "departments",
+    "subcategory": "overview",
+    "department": "cseaiml",
+    "title": "Computer Science and Engineering (Artificial Intelligence and Machine Learning) Department Overview",
+    "url": "",
+    "content": "The Bachelor of Technology (B.Tech) program in Computer Science and Engineering (Artificial Intelligence and Machine Learning) was introduced in the academic year 2022–2023 with an intake of 60 students. Artificial Intelligence enables machines to simulate human intelligence and solve complex problems using algorithms and data. Machine Learning focuses on building systems that can learn patterns from data and make predictions automatically. The program prepares students with strong foundations in artificial intelligence, machine learning, data analytics, and intelligent system development for modern industry applications.",
+    "keywords": [
+      "CSE AI ML RGMCET",
+      "Artificial Intelligence department",
+      "Machine Learning engineering program",
+      "AI ML BTech RGMCET",
+      "CSE AIML department"
+    ],
+    "metadata": {
+      "entity_type": "department_overview"
+    },
+    "text_for_embedding": "Computer Science and Engineering Artificial Intelligence and Machine Learning Department Overview | Category: departments | Subcategory: overview | Department: cseaiml | Keywords: CSE AI ML RGMCET, Artificial Intelligence department, Machine Learning engineering program | The CSE Artificial Intelligence and Machine Learning program focuses on intelligent systems, machine learning models, and advanced AI technologies.",
+    "images": [
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/banner/IT.jpg",
+        "name": "CSE AIML Department Building"
+      }
+    ]
+  },
+  {
+    "id": "dept_cseaiml_vision_mission_1",
+    "category": "departments",
+    "subcategory": "overview",
+    "department": "cseaiml",
+    "title": "CSE (AI & ML) Vision and Mission",
+    "url": "",
+    "content": "Vision: To develop competent professionals in the field of Artificial Intelligence and Machine Learning contributing globally to the benefit of industry and society. Mission: To develop state of the art academic and infrastructural facilities with modern equipment and learning resources to produce self sustainable professionals. To collaborate with industry and research laboratories through projects and internships enabling students to explore various directions of learning. To equip students with interdisciplinary skill sets required to build intelligent systems and achieve successful careers in the global marketplace.",
+    "keywords": [
+      "CSE AIML vision",
+      "AI ML department mission",
+      "Artificial Intelligence education objectives",
+      "AI ML department goals"
+    ],
+    "metadata": {
+      "entity_type": "department_vision"
+    },
+    "text_for_embedding": "CSE Artificial Intelligence and Machine Learning Vision and Mission | Category: departments | Subcategory: overview | Department: cseaiml | Keywords: CSE AIML vision, AI ML mission | The department focuses on developing skilled AI professionals through strong academic infrastructure and industry collaboration.",
+    "images": []
+  },
+  {
+    "id": "dept_cseaiml_programs_1",
+    "category": "departments",
+    "subcategory": "programs",
+    "department": "cseaiml",
+    "title": "CSE (AI & ML) Programs and Course Structure",
+    "url": "",
+    "content": "The department offers B.Tech in Computer Science and Engineering with specialization in Artificial Intelligence and Machine Learning. The program follows RGM-R20 and RGM-R23 regulations with semester-wise course structures covering artificial intelligence, machine learning, deep learning, data analytics, natural language processing, and intelligent system design.",
+    "keywords": [
+      "CSE AIML program",
+      "AI ML course structure",
+      "Artificial Intelligence curriculum",
+      "Machine Learning subjects",
+      "AI ML BTech syllabus"
+    ],
+    "metadata": {
+      "entity_type": "department_programs"
+    },
+    "text_for_embedding": "CSE Artificial Intelligence and Machine Learning Programs | Category: departments | Subcategory: programs | Department: cseaiml | Keywords: AI ML course structure, AI ML curriculum | The program covers machine learning, artificial intelligence, deep learning, and intelligent system design.",
+    "images": []
+  },
+  {
+    "id": "dept_cseaiml_faculty_1",
+    "category": "departments",
+    "subcategory": "faculty",
+    "department": "cseaiml",
+    "title": "CSE (AI & ML) Faculty",
+    "url": "",
+    "content": "The CSE (Artificial Intelligence and Machine Learning) department is supported by qualified faculty members specializing in artificial intelligence, machine learning, data science, and advanced computing technologies.",
+    "keywords": [
+      "CSE AIML faculty",
+      "AI ML professors",
+      "Artificial Intelligence faculty",
+      "Machine Learning professors"
+    ],
+    "metadata": {
+      "entity_type": "department_faculty"
+    },
+    "images": [
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/csebs/1.jpg",
+        "name": "Dr. G. Kishor Kumar",
+        "designation": "Professor & HOD",
+        "qualification": "M.Tech & Ph.D"
+      },
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/CSEAIML/avinash.jpg",
+        "name": "Dr. J. Avinash",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech & Ph.D"
+      },
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/CSEAIML/chandana.jpg",
+        "name": "Dr. G. Chandana Swathi",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech & Ph.D"
+      },
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/CSEAIML/Chakrapani.jpg",
+        "name": "Dr. Chakrapani",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech & Ph.D"
+      },
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/csebs/3.jpg",
+        "name": "Mr. V. Phanishwara Hara Gopal",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech"
+      },
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/CSEAIML/SRILAKSHMI.jpeg",
+        "name": "Dr. CH. Srilakshmi Prasanna",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech & Ph.D"
+      },
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/csebs/2.jpg",
+        "name": "Mr. P. Arun Babu",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech"
+      },
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/csebs/5.jpg",
+        "name": "Mrs. P. Priyanka",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech"
+      }
+    ]
+  },
+  {
+    "id": "dept_cseaiml_outcomes_1",
+    "category": "departments",
+    "subcategory": "outcomes",
+    "department": "cseaiml",
+    "title": "CSE (AI & ML) Program Outcomes",
+    "url": "",
+    "content": "Graduates of the CSE (Artificial Intelligence and Machine Learning) program will be able to design, develop, implement, and deploy intelligent systems and machine learning models to solve real-world problems in domains such as healthcare, finance, and IoT. Students gain proficiency in AI techniques including computer vision, natural language processing, and reinforcement learning. The program also focuses on building intelligent robotic systems and developing ethical AI solutions considering fairness, transparency, and societal impact.",
+    "keywords": [
+      "CSE AIML outcomes",
+      "AI ML program outcomes",
+      "Artificial Intelligence skills",
+      "Machine Learning graduate skills"
+    ],
+    "metadata": {
+      "entity_type": "department_outcomes"
+    },
+    "text_for_embedding": "CSE Artificial Intelligence and Machine Learning Program Outcomes | Category: departments | Subcategory: outcomes | Department: cseaiml | Keywords: AI ML program outcomes | Graduates will develop intelligent systems, machine learning models, and AI applications for real-world problem solving.",
+    "images": []
+  },
+  {
+    "id": "dept_csebs_overview_1",
+    "category": "departments",
+    "subcategory": "overview",
+    "department": "csebs",
+    "title": "Computer Science and Engineering and Business Systems Department Overview",
+    "url": "",
+    "content": "The Bachelor of Technology (B.Tech) program in Computer Science and Engineering and Business Systems (CSE&BS) was introduced in the academic year 2020–2021 with a sanctioned intake of 60 students. The program is designed to combine core computer science knowledge with business and management skills. It focuses on the practical implementation of computer science concepts in real-world business applications. Students gain strong foundations in computing while also developing knowledge in humanities, economics, management sciences, and ethical values.",
+    "keywords": [
+      "CSE Business Systems RGMCET",
+      "CSE BS department",
+      "Computer Science and Business Systems program",
+      "CSE BS BTech RGMCET",
+      "Business systems engineering"
+    ],
+    "metadata": {
+      "entity_type": "department_overview"
+    },
+    "text_for_embedding": "Computer Science and Engineering and Business Systems Department Overview | Category: departments | Subcategory: overview | Department: csebs | Keywords: CSE Business Systems RGMCET, CSE BS program, Computer Science and Business Systems | The CSE Business Systems program integrates computer science with management and business applications to prepare industry-ready professionals.",
+    "images": [
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/banner/IT.jpg",
+        "name": "CSE Business Systems Department Building"
+      }
+    ]
+  },
+  {
+    "id": "dept_csebs_vision_mission_1",
+    "category": "departments",
+    "subcategory": "overview",
+    "department": "csebs",
+    "title": "CSE Business Systems Vision and Mission",
+    "url": "",
+    "content": "Vision: To be a center of excellence in Computer Science and Management offering fundamental and advanced knowledge.\n\nMission: To impart knowledge in the state of the art areas of Computer Science and Management with strong theoretical foundations. To provide quality education through well designed curriculum aligned with challenging software industry needs. To facilitate the development of academic and industry collaboration for real-world learning.",
+    "keywords": [
+      "CSE BS vision",
+      "CSE Business Systems mission",
+      "computer science management education",
+      "CSE BS goals",
+      "business systems engineering vision"
+    ],
+    "metadata": {
+      "entity_type": "department_vision"
+    },
+    "text_for_embedding": "CSE Business Systems Vision and Mission | Category: departments | Subcategory: overview | Department: csebs | Keywords: CSE BS vision, business systems mission | The department aims to provide advanced knowledge in computer science and management while strengthening academic and industry collaboration.",
+    "images": []
+  },
+  {
+    "id": "dept_csebs_programs_1",
+    "category": "departments",
+    "subcategory": "programs",
+    "department": "csebs",
+    "title": "CSE Business Systems Programs and Course Structure",
+    "url": "",
+    "content": "The department offers B.Tech in Computer Science and Engineering and Business Systems. The program follows RGM-R20 regulations and includes semester-wise course structures covering computer science fundamentals, software development, business systems, management concepts, and real-world enterprise applications.",
+    "keywords": [
+      "CSE BS program",
+      "Computer Science Business Systems curriculum",
+      "CSE BS syllabus",
+      "Business systems engineering course structure",
+      "CSE BS subjects"
+    ],
+    "metadata": {
+      "entity_type": "department_programs"
+    },
+    "text_for_embedding": "CSE Business Systems Programs | Category: departments | Subcategory: programs | Department: csebs | Keywords: CSE BS curriculum, business systems engineering | The program integrates computer science subjects with business management and enterprise application development.",
+    "images": []
+  },
+  {
+    "id": "dept_csebs_faculty_1",
+    "category": "departments",
+    "subcategory": "faculty",
+    "department": "csebs",
+    "title": "CSE Business Systems Faculty",
+    "url": "",
+    "content": "The Computer Science and Engineering and Business Systems department is supported by experienced faculty members specializing in computer science, software engineering, and interdisciplinary applications in business systems.",
+    "keywords": [
+      "CSE BS faculty",
+      "Computer science business systems professors",
+      "CSE business systems staff",
+      "software and business faculty"
+    ],
+    "metadata": {
+      "entity_type": "department_faculty"
+    },
+    "images": [
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/csebs/1.jpg",
+        "name": "Dr. G. Kishor Kumar",
+        "designation": "Professor & HOD",
+        "qualification": "M.Tech & Ph.D"
+      },
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/csebs/2.jpg",
+        "name": "Mr. P. Arun Babu",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech"
+      },
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/csebs/3.jpg",
+        "name": "Mr. V. Phanishwara Hara Gopal",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech"
+      },
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/csebs/5.jpg",
+        "name": "Mrs. P. Priyanka",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech"
+      },
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/csebs/4.jpeg",
+        "name": "Mrs. C. Leelavathi",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech"
+      }
+    ]
+  },
+  {
+    "id": "dept_csebs_outcomes_1",
+    "category": "departments",
+    "subcategory": "outcomes",
+    "department": "csebs",
+    "title": "CSE Business Systems Program Outcomes",
+    "url": "",
+    "content": "Graduates of the Computer Science and Engineering and Business Systems program will apply engineering knowledge, problem analysis, and design principles to solve complex computing problems. They will be able to design and implement engineering solutions considering professional, managerial, and financial aspects. Students will develop skills to understand contemporary industrial trends and innovate solutions for real-world problems. The program also focuses on professional ethics, communication skills, teamwork, and sustainable engineering practices.",
+    "keywords": [
+      "CSE BS outcomes",
+      "Business systems engineering skills",
+      "CSE business systems graduate outcomes",
+      "software and management engineering outcomes"
+    ],
+    "metadata": {
+      "entity_type": "department_outcomes"
+    },
+    "text_for_embedding": "CSE Business Systems Program Outcomes | Category: departments | Subcategory: outcomes | Department: csebs | Keywords: CSE BS outcomes, business systems engineering skills | Graduates will develop computing solutions integrated with business systems, management concepts, and professional engineering practices.",
+    "images": []
+  },
+{
+"id": "dept_cseds_overview_1",
+"category": "departments",
+"subcategory": "overview",
+"department": "cseds",
+"title": "Computer Science and Engineering (Data Science) Department Overview",
+"url": "",
+"content": "The Bachelor of Technology program in Computer Science and Engineering with specialization in Data Science focuses on building strong foundations in data analysis, statistics, and computing technologies. The program prepares students to work with large scale datasets and extract meaningful insights using modern tools and algorithms. The department trains students to solve real world problems through data driven decision making and advanced computing techniques.",
+"keywords": [
+"CSE Data Science RGMCET",
+"Computer Science Data Science department",
+"Data Science engineering program",
+"CSE DS BTech RGMCET",
+"Data Science specialization"
+],
+"metadata": {
+"entity_type": "department_overview"
+},
+"text_for_embedding": "Computer Science and Engineering Data Science Department Overview | Category: departments | Subcategory: overview | Department: cseds | Keywords: CSE Data Science RGMCET, Data Science engineering program | The CSE Data Science program focuses on large scale data analysis, statistical modeling, and intelligent computing systems.",
+"images": [
+{
+"url": "https://www.rgmcet.edu.in/assets/img/departments/CSEDS/CSEDS1.JPG",
+"name": "CSE Data Science Department Building"
+}
+]
+},
+
+{
+"id": "dept_cseds_vision_mission_1",
+"category": "departments",
+"subcategory": "overview",
+"department": "cseds",
+"title": "CSE Data Science Vision and Mission",
+"url": "",
+"content": "Vision: The vision of the Data Science department is to create a world class academic program that trains the next generation of data scientists capable of solving modern technological challenges and driving innovation through research and analytics. Mission: To educate students in data science with strong foundations in computing and statistics. To promote cutting edge research in data analytics and artificial intelligence. To establish a center of technological knowledge supporting data creators, providers, and users across industry and society.",
+"keywords": [
+"CSE Data Science vision",
+"Data Science department mission",
+"Data Science education goals",
+"Data Science research vision"
+],
+"metadata": {
+"entity_type": "department_vision"
+},
+"text_for_embedding": "CSE Data Science Vision and Mission | Category: departments | Subcategory: overview | Department: cseds | Keywords: Data Science department vision, Data Science mission | The department aims to develop skilled data scientists capable of solving modern data driven challenges through research and innovation.",
+"images": []
+},
+
+{
+"id": "dept_cseds_programs_1",
+"category": "departments",
+"subcategory": "programs",
+"department": "cseds",
+"title": "CSE Data Science Programs and Course Structure",
+"url": "",
+"content": "The department offers B.Tech in Computer Science and Engineering with specialization in Data Science. The program follows RGM-R20 regulations and includes courses in statistics, machine learning, data analytics, big data processing, artificial intelligence, and software engineering. The course structure spans four years with eight semesters and focuses on practical learning through laboratories and projects.",
+"keywords": [
+"CSE Data Science program",
+"Data Science curriculum",
+"CSE DS syllabus",
+"Big data and machine learning subjects",
+"Data analytics course structure"
+],
+"metadata": {
+"entity_type": "department_programs"
+},
+"text_for_embedding": "CSE Data Science Programs | Category: departments | Subcategory: programs | Department: cseds | Keywords: Data Science curriculum, Data analytics subjects | The program integrates computer science, applied statistics, machine learning, and big data technologies.",
+"images": []
+},
+
+{
+"id": "dept_cseds_faculty_1",
+"category": "departments",
+"subcategory": "faculty",
+"department": "cseds",
+"title": "CSE Data Science Faculty",
+"url": "",
+"content": "The Computer Science and Engineering (Data Science) department is supported by experienced faculty members specializing in data analytics, machine learning, and advanced computing technologies.",
+"keywords": [
+"CSE Data Science faculty",
+"Data Science professors",
+"CSE DS teaching staff",
+"data analytics faculty"
+],
+"metadata": {
+"entity_type": "department_faculty"
+},
+"images": [
+{
+"url": "https://www.rgmcet.edu.in/assets/img/teacher/cseds/BBR.jpg",
+"name": "Dr. B. Bhaskara Rao",
+"designation": "Associate Professor & HOD",
+"qualification": "M.Tech & Ph.D"
+},
+{
+"url": "https://www.rgmcet.edu.in/assets/img/teacher/cseds/msbasha1.JPG",
+"name": "Dr. M. Suleman Basha",
+"designation": "Associate Professor",
+"qualification": "M.Tech & Ph.D"
+},
+{
+"url": "https://www.rgmcet.edu.in/assets/img/teacher/cseds/Rangaswamy.jpeg",
+"name": "Dr. K. Rangaswamy",
+"designation": "Associate Professor",
+"qualification": "M.Tech & Ph.D"
+},
+{
+"url": "https://www.rgmcet.edu.in/assets/img/teacher/cseds/Raghavendra.jpeg",
+"name": "Dr. M. Sri Raghavendra",
+"designation": "Assistant Professor",
+"qualification": "M.Tech & Ph.D"
+},
+{
+"url": "https://www.rgmcet.edu.in/assets/img/teacher/cseds/karimulla.jpg",
+"name": "Dr. S. Karimulla Basha",
+"designation": "Assistant Professor",
+"qualification": "M.Tech & Ph.D"
+},
+{
+"url": "https://www.rgmcet.edu.in/assets/img/teacher/cseds/Penchalprasad.jpeg",
+"name": "Dr. P. Penchala Prasad",
+"designation": "Associate Professor",
+"qualification": "M.Tech & Ph.D"
+}
+]
+},
+
+{
+"id": "dept_cseds_outcomes_1",
+"category": "departments",
+"subcategory": "outcomes",
+"department": "cseds",
+"title": "CSE Data Science Program Outcomes",
+"url": "",
+"content": "Graduates of the Computer Science and Engineering Data Science program will develop strong analytical skills to work with large datasets. They will apply mathematical and statistical models to solve real world problems, design and implement data driven solutions, and use modern tools for predictive modeling and decision making. Students will also gain expertise in data visualization, machine learning techniques, and data engineering practices required for modern industry roles.",
+"keywords": [
+"CSE Data Science outcomes",
+"Data Science engineering skills",
+"Data analytics graduate outcomes",
+"machine learning and data science skills"
+],
+"metadata": {
+"entity_type": "department_outcomes"
+},
+"text_for_embedding": "CSE Data Science Program Outcomes | Category: departments | Subcategory: outcomes | Department: cseds | Keywords: Data Science graduate outcomes, data analytics skills | Graduates will analyze large datasets, build predictive models, and develop intelligent data driven systems.",
+"images": []
+},
+{
+"id": "dept_csecs_overview_1",
+"category": "departments",
+"subcategory": "overview",
+"department": "csecs",
+"title": "Computer Science and Engineering (Cyber Security) Department Overview",
+"url": "",
+"content": "The Bachelor of Technology program in Computer Science and Engineering with specialization in Cyber Security was introduced in the academic year 2022–2023. The program focuses on developing expertise in secure systems, cyber defense mechanisms, and information protection technologies. Students gain hands-on practical experience in secure system design, network security, cryptography, web security, and cyber risk management. The curriculum also emphasizes legal, behavioral, and ethical aspects of cybersecurity to prepare graduates capable of protecting digital infrastructure and developing secure computing solutions.",
+"keywords": [
+"CSE Cyber Security RGMCET",
+"Cyber security engineering program",
+"Computer Science Cyber Security department",
+"CSE CS BTech RGMCET",
+"Cyber security specialization"
+],
+"metadata": {
+"entity_type": "department_overview"
+},
+"text_for_embedding": "Computer Science and Engineering Cyber Security Department Overview | Category: departments | Subcategory: overview | Department: csecs | Keywords: CSE Cyber Security RGMCET, cybersecurity engineering program | The CSE Cyber Security program focuses on network security, cryptography, secure coding, and cyber risk management.",
+"images": [
+{
+"url": "https://www.rgmcet.edu.in/assets/img/banner/IT.jpg",
+"name": "CSE Cyber Security Department Building"
+}
+]
+},
+
+{
+"id": "dept_csecs_vision_mission_1",
+"category": "departments",
+"subcategory": "overview",
+"department": "csecs",
+"title": "CSE Cyber Security Vision and Mission",
+"url": "",
+"content": "Vision: To become a partner of choice for Cyber and Information Security by implementing comprehensive data protection strategies and contributing to the development of secure digital systems for organizations and society. Mission: To introduce best practices of cyber and information security protection, integrate them with organizational processes, empower organizations to manage and mitigate risks, and help them become globally competitive.",
+"keywords": [
+"Cyber security department vision",
+"CSE cyber security mission",
+"information security education goals",
+"cyber security program vision"
+],
+"metadata": {
+"entity_type": "department_vision"
+},
+"text_for_embedding": "CSE Cyber Security Vision and Mission | Category: departments | Subcategory: overview | Department: csecs | Keywords: cyber security department mission, cybersecurity education | The department aims to build secure digital systems and prepare professionals capable of protecting organizational information assets.",
+"images": []
+},
+
+{
+"id": "dept_csecs_programs_1",
+"category": "departments",
+"subcategory": "programs",
+"department": "csecs",
+"title": "CSE Cyber Security Programs and Course Structure",
+"url": "",
+"content": "The department offers B.Tech in Computer Science and Engineering with specialization in Cyber Security. The program spans four years with eight semesters and includes courses covering secure coding, network security, cryptography, database security, web security, cyber risk management, and digital forensics. The curriculum provides practical laboratory experience and project-based learning in cybersecurity technologies.",
+"keywords": [
+"CSE Cyber Security program",
+"cybersecurity curriculum",
+"CSE CS syllabus",
+"network security and cryptography subjects",
+"cybersecurity course structure"
+],
+"metadata": {
+"entity_type": "department_programs"
+},
+"text_for_embedding": "CSE Cyber Security Programs | Category: departments | Subcategory: programs | Department: csecs | Keywords: cybersecurity curriculum, network security subjects | The program trains students in cryptography, network security, secure coding, and cyber risk management.",
+"images": []
+},
+
+{
+"id": "dept_csecs_faculty_1",
+"category": "departments",
+"subcategory": "faculty",
+"department": "csecs",
+"title": "CSE Cyber Security Faculty",
+"url": "",
+"content": "The Computer Science and Engineering (Cyber Security) department is supported by qualified faculty members specializing in cybersecurity, secure software development, network security, and information assurance.",
+"keywords": [
+"CSE Cyber Security faculty",
+"cybersecurity professors",
+"information security faculty",
+"CSE CS teaching staff"
+],
+"metadata": {
+"entity_type": "department_faculty"
+},
+"images": [
+{
+"url": "https://www.rgmcet.edu.in/assets/img/teacher/CSECS/kaviarasan.jpeg",
+"name": "Dr. R. Kaviarasan",
+"designation": "Associate Professor & HOD",
+"qualification": "Ph.D"
+},
+{
+"url": "https://www.rgmcet.edu.in/assets/img/teacher/CSECS/Raghunath.jpg",
+"name": "Dr. D. Raghunath Kumar Babu",
+"designation": "Assistant Professor",
+"qualification": "M.Tech & Ph.D"
+},
+{
+"url": "https://www.rgmcet.edu.in/assets/img/teacher/CSECS/Muzib.jpeg",
+"name": "Syed Muzibuddin",
+"designation": "Assistant Professor",
+"qualification": "M.Tech"
+},
+{
+"url": "https://www.rgmcet.edu.in/assets/img/teacher/CSECS/srujana.jpeg",
+"name": "Kammari Srujana",
+"designation": "Assistant Professor",
+"qualification": "M.Tech"
+},
+{
+"url": "https://www.rgmcet.edu.in/assets/img/teacher/CSECS/Indira.jpeg",
+"name": "C. K. Indira",
+"designation": "Assistant Professor",
+"qualification": "M.Tech"
+},
+{
+"url": "https://www.rgmcet.edu.in/assets/img/teacher/CSECS/muneih.jpg",
+"name": "T. Muneih",
+"designation": "Assistant Professor",
+"qualification": "M.Tech"
+}
+]
+},
+
+{
+"id": "dept_csecs_outcomes_1",
+"category": "departments",
+"subcategory": "outcomes",
+"department": "csecs",
+"title": "CSE Cyber Security Program Outcomes",
+"url": "",
+"content": "Graduates of the Computer Science and Engineering Cyber Security program will develop the ability to analyze and design secure computing systems. Students will understand networking, cryptography, web security, and database management with strong adherence to secure software development practices. Graduates will be capable of developing strategies for protecting digital assets, managing cyber risks, and implementing cybersecurity solutions for organizations and individuals.",
+"keywords": [
+"CSE Cyber Security outcomes",
+"cybersecurity engineering skills",
+"information security graduate outcomes",
+"cyber risk management skills"
+],
+"metadata": {
+"entity_type": "department_outcomes"
+},
+"text_for_embedding": "CSE Cyber Security Program Outcomes | Category: departments | Subcategory: outcomes | Department: csecs | Keywords: cybersecurity graduate outcomes | Graduates will design secure systems, protect digital assets, and implement cybersecurity solutions for organizations.",
+"images": []
+}
+]

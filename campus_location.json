@@ -1,0 +1,72 @@
+{
+  "Civil Engineering Block": {
+    "name": "Civil Engineering Block",
+    "lat": 15.504087,
+    "lng": 78.375993
+  },
+  "Civil Engineering Labs": {
+    "name": "Civil Engineering Labs",
+    "lat": 15.503833,
+    "lng": 78.376074
+  },
+  "RGM Canteen": {
+    "name": "RGM Canteen",
+    "lat": 15.504403,
+    "lng": 78.378372
+  },
+  "Administrative Block": {
+    "name": "Administrative Block",
+    "lat": 15.503691,
+    "lng": 78.376911
+  },
+  "Department of CSE": {
+    "name": "Department of CSE",
+    "lat": 15.504388,
+    "lng": 78.376224
+  },
+  "Department of Mechanical": {
+    "name": "Department of Mechanical",
+    "lat": 15.503488,
+    "lng": 78.377418
+  },
+  "Department of ECE": {
+    "name": "Department of ECE",
+    "lat": 15.503981,
+    "lng": 78.377579
+  },
+  "Fee Payments Block": {
+    "name": "Fee Payments Block",
+    "lat": 15.504610,
+    "lng": 78.376374
+  },
+  "State Bank of India RGMCET": {
+    "name": "State Bank of India RGMCET",
+    "lat": 15.505376,
+    "lng": 78.376498
+  },
+  "ET New Block": {
+    "name": "ET New Block",
+    "lat": 15.505153,
+    "lng": 78.376440
+  },
+  "SBI ATM": {
+    "name": "SBI ATM",
+    "lat": 15.505443,
+    "lng": 78.377051
+  },
+  "RGMCET Main Entrance": {
+    "name": "RGMCET Main Entrance",
+    "lat": 15.505326,
+    "lng": 78.377170
+  },
+  "RGM Bus Point": {
+    "name": "RGM Bus Point",
+    "lat": 15.505338,
+    "lng": 78.375824
+  },
+  "Placement Point": {
+    "name": "Placement Point",
+    "lat": 15.504552,
+    "lng": 78.375692
+  }
+}

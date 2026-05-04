@@ -1,0 +1,16 @@
+{% extends "layout.html" %}
+{% block content %}
+
+<div class="dashboard">
+    <div class="sidebar">
+        <h3>Welcome</h3>
+        <p>👤 {{ username }}</p>
+        <a href="/logout" class="btn">Logout</a>
+    </div>
+
+    <div class="main">
+        <h2>Hi {{ username }}, how can I help you today?</h2>
+    </div>
+</div>
+
+{% endblock %}

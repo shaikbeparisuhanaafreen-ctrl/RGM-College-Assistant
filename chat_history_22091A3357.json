@@ -1,0 +1,106 @@
+[
+    {
+        "id": "1777877850.050863",
+        "title": "where is rgmcet",
+        "messages": [
+            {
+                "query": "where is rgmcet",
+                "response": "Rajeev Gandhi Memorial College of Engineering and Technology (RGMCET) is located at a convenient address:\n\nNerawada X Roads, \nNandyal \u2013 518501, \nAndhra Pradesh, \nIndia.\n\nThis location allows easy accessibility to students from surrounding areas.",
+                "images": [
+                    {
+                        "url": "https://www.rgmcet.edu.in/assets/img/administrators/principal.jpg",
+                        "name": "Dr. T Jayachandra Prasad",
+                        "designation": "Principal",
+                        "contact": "+91-9440290470",
+                        "email": "principal.9@jntua.ac.in",
+                        "qualification": "",
+                        "faculty_id": ""
+                    },
+                    {
+                        "url": "https://www.rgmcet.edu.in/assets/img/administrators/dad.jpg",
+                        "name": "Dr. D.V. Ashok Kumar",
+                        "designation": "Dean-Admin. & Director Placements",
+                        "contact": "+91-9866308477",
+                        "email": "dad@rgmcet.edu.in",
+                        "qualification": "",
+                        "faculty_id": ""
+                    },
+                    {
+                        "url": "https://www.rgmcet.edu.in/assets/img/administrators/dos.jpg",
+                        "name": "Dr. B.Rami Reddy",
+                        "designation": "Dean - Student Affairs",
+                        "contact": "+91-9442079377",
+                        "email": "ramireddy@pec.edu",
+                        "qualification": "",
+                        "faculty_id": ""
+                    },
+                    {
+                        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer3mTkaI7VR-z4S7-Dj8CpfZfhp77sVOe1oZ8di-oIHZ-2ZppuFlIoEUmqoGXk2K3ZLSZpVmX2UpQoc4aG2CUxq-1yX14NeXWWxfYegkkefGC0DRgmi4SnHrCfUD8epGm89lxHgXQ=s1360-w1360-h1020-rw",
+                        "name": "RGMCET Campus",
+                        "designation": "",
+                        "qualification": "",
+                        "faculty_id": "",
+                        "contact": "",
+                        "email": ""
+                    }
+                ],
+                "documents": [],
+                "suggestions": [
+                    "What are the nearest bus stations?",
+                    "Are there any hostels available on campus?",
+                    "How is the college Wi-Fi connectivity?"
+                ],
+                "timestamp": "2026-05-04 12:27"
+            },
+            {
+                "query": "location of rgmcet college",
+                "response": "The location of Rajeev Gandhi Memorial College of Engineering and Technology (RGMCET) is at Nerawada X Roads, Nandyal \u2013 518501, Andhra Pradesh, India.\n\nTo make it easier, I've broken down the address for you:\n\n- Location: Nerawada X Roads\n- City: Nandyal\n- State: Andhra Pradesh\n- Pincode: 518501",
+                "images": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer3mTkaI7VR-z4S7-Dj8CpfZfhp77sVOe1oZ8di-oIHZ-2ZppuFlIoEUmqoGXk2K3ZLSZpVmX2UpQoc4aG2CUxq-1yX14NeXWWxfYegkkefGC0DRgmi4SnHrCfUD8epGm89lxHgXQ=s1360-w1360-h1020-rw",
+                        "name": "RGMCET Campus",
+                        "designation": "",
+                        "qualification": "",
+                        "faculty_id": "",
+                        "contact": "",
+                        "email": ""
+                    },
+                    {
+                        "url": "https://www.rgmcet.edu.in/assets/img/2.jpg",
+                        "name": "RGMCET Campus",
+                        "designation": "",
+                        "qualification": "",
+                        "faculty_id": "",
+                        "contact": "",
+                        "email": ""
+                    },
+                    {
+                        "url": "https://www.rgmcet.edu.in/assets/img/3.jpg",
+                        "name": "RGMCET Campus",
+                        "designation": "",
+                        "qualification": "",
+                        "faculty_id": "",
+                        "contact": "",
+                        "email": ""
+                    },
+                    {
+                        "url": "https://www.rgmcet.edu.in/assets/img/5.jpg",
+                        "name": "RGMCET Campus",
+                        "designation": "",
+                        "qualification": "",
+                        "faculty_id": "",
+                        "contact": "",
+                        "email": ""
+                    }
+                ],
+                "documents": [],
+                "suggestions": [
+                    "What is the nearest railway station to RGMCET?",
+                    "How far is RGMCET from Nandyal city centre?",
+                    "Are there any bus services available to RGMCET?"
+                ],
+                "timestamp": "2026-05-04 12:29"
+            }
+        ]
+    }
+]

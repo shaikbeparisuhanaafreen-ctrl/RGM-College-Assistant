@@ -1,0 +1,540 @@
+[
+  {
+    "id": "dept_ce_overview_1",
+    "category": "departments",
+    "subcategory": "overview",
+    "department": "ce",
+    "title": "Civil Engineering Department Overview",
+    "url": "https://www.rgmcet.edu.in/department-of-ce",
+    "content": "The Civil Engineering department at RGMCET was established in 2008. It offers B.Tech in Civil Engineering with an intake of 120 and M.Tech in Computer Aided Structural Engineering with an intake of 18. The department provides quality education supported by experienced faculty, modern laboratories, and strong infrastructure.",
+    "keywords": [
+      "RGMCET civil engineering",
+      "civil department overview",
+      "BTech civil intake",
+      "MTech structural engineering",
+      "civil engineering RGMCET"
+    ],
+    "metadata": {
+      "entity_type": "department_overview",
+      "established_year": 2008
+    }
+  },
+  {
+    "id": "dept_ce_vision_mission_1",
+    "category": "departments",
+    "subcategory": "overview",
+    "department": "ce",
+    "title": "Civil Engineering Vision and Mission",
+    "url": "https://www.rgmcet.edu.in/department-of-ce",
+    "content": "The department aims to provide value-based civil engineering education that produces socially responsible professionals. It focuses on innovation, research orientation, leadership, teamwork, and strong industry collaboration.",
+    "keywords": [
+      "civil engineering vision",
+      "civil mission RGMCET",
+      "civil department goals",
+      "engineering leadership",
+      "civil education objectives"
+    ],
+    "metadata": {
+      "entity_type": "department_vision"
+    }
+  },
+  {
+    "id": "dept_ce_faculty_1",
+    "category": "departments",
+    "subcategory": "faculty",
+    "department": "ce",
+    "title": "Civil Engineering Faculty",
+    "url": "https://www.rgmcet.edu.in/ce_faculty",
+    "content": "The Civil Engineering department is headed by Dr. G. Sreenivasulu and supported by qualified professors, associate professors, and assistant professors contributing to teaching and research.",
+    "keywords": [
+      "civil engineering faculty",
+      "CE HOD RGMCET",
+      "Dr G Sreenivasulu",
+      "civil professors",
+      "civil department staff"
+    ],
+    "metadata": {
+      "entity_type": "department_faculty"
+    }
+  },
+  {
+    "id": "dept_ce_programs_1",
+    "category": "departments",
+    "subcategory": "programs",
+    "department": "ce",
+    "title": "Civil Engineering Programs",
+    "url": "https://www.rgmcet.edu.in/ce_dp.php",
+    "content": "The department offers B.Tech in Civil Engineering under multiple regulations and M.Tech in Structural Engineering with semester-wise curriculum.",
+    "keywords": [
+      "civil engineering programs",
+      "BTech civil RGMCET",
+      "MTech structural",
+      "civil curriculum",
+      "civil courses"
+    ],
+    "metadata": {
+      "entity_type": "department_programs"
+    }
+  },
+  {
+    "id": "dept_ce_research_1",
+    "category": "departments",
+    "subcategory": "research",
+    "department": "ce",
+    "title": "Civil Engineering Research",
+    "url": "https://www.rgmcet.edu.in/ce_rnd.php",
+    "content": "The Civil Engineering department conducts research in Structural Engineering, Water Resources, Environmental Engineering, Remote Sensing, GIS, and Machine Learning applications in civil engineering.",
+    "keywords": [
+      "civil research areas",
+      "structural engineering research",
+      "GIS civil RGMCET",
+      "civil publications",
+      "civil research supervisors"
+    ],
+    "metadata": {
+      "entity_type": "department_research"
+    }
+  },
+  {
+    "id": "dept_ce_labs_1",
+    "category": "departments",
+    "subcategory": "labs",
+    "department": "ce",
+    "title": "Civil Engineering Laboratories",
+    "url": "Civil Engineering Lab Document",
+    "content": "The department has advanced laboratories including Concrete Technology Lab, Engineering Geology Lab, Environmental Engineering Lab, Geotechnical Lab, CAD & GIS Lab, Strength of Materials Lab, Survey Labs, Transportation Lab, and Advanced Structural Engineering Lab.",
+    "keywords": [
+      "civil labs RGMCET",
+      "concrete technology lab",
+      "geotechnical lab",
+      "survey lab civil",
+      "structural lab"
+    ],
+    "metadata": {
+      "entity_type": "department_labs"
+    }
+  },
+  {
+    "id": "dept_eee_overview_1",
+    "category": "departments",
+    "subcategory": "overview",
+    "department": "eee",
+    "title": "Electrical and Electronics Engineering Department Overview",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The Electrical and Electronics Engineering (EEE) department at RGMCET offers B.Tech, M.Tech in Power Electronics, and Ph.D programs. The department has an intake of 120 students and is supported by well-equipped laboratories and experienced faculty.",
+    "keywords": [
+      "EEE RGMCET",
+      "electrical engineering department",
+      "power electronics MTech",
+      "EEE intake 120",
+      "electrical programs RGMCET"
+    ],
+    "metadata": { "entity_type": "department_overview" }
+  },
+  {
+    "id": "dept_eee_faculty_1",
+    "category": "departments",
+    "subcategory": "faculty",
+    "department": "eee",
+    "title": "EEE Distinguished Faculty",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The EEE department is supported by experienced faculty members including Dr. V. Naga Bhaskar Reddy, Dr. B. Rami Reddy, Dr. K. Bramhanandam, Dr. B. M. Manjunatha, and others contributing to teaching and research.",
+    "keywords": [
+      "EEE faculty RGMCET",
+      "electrical professors",
+      "Dr V Naga Bhaskar Reddy",
+      "EEE staff",
+      "electrical department faculty"
+    ],
+    "metadata": { "entity_type": "department_faculty" },
+    "top_faculty": [
+      "Dr. V. Naga Bhaskar Reddy",
+      "Dr. B. Rami Reddy",
+      "Dr. K. Bramhanandam",
+      "Dr. B. M. Manjunatha",
+      "Dr. Narasimhulu V",
+      "Mr. Y. Vijaya Suresh",
+      "Mr. R. Satish Kumar",
+      "Dr. D. V. Ashok Kumar",
+      "Dr. D. Lenine",
+      "Dr. J. Surya Kumari"
+    ]
+  },
+  {
+    "id": "dept_eee_achievements_1",
+    "category": "departments",
+    "subcategory": "achievements",
+    "department": "eee",
+    "title": "EEE Department Achievements",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The EEE department has received several recognitions including ISTE Best B.Tech Project Award, Smart India Hackathon Award, and installation of a 500 kW rooftop solar plant along with multiple GATE qualifications by students.",
+    "keywords": [
+      "EEE achievements",
+      "Smart India Hackathon EEE",
+      "ISTE project award",
+      "solar plant RGMCET",
+      "EEE awards"
+    ],
+    "metadata": { "entity_type": "department_achievements" }
+  },
+  
+  {
+    "id": "dept_me_overview_1",
+    "category": "departments",
+    "subcategory": "overview",
+    "department": "me",
+    "title": "Mechanical Engineering Department Overview",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The Mechanical Engineering department at RGMCET offers B.Tech in Mechanical Engineering, M.Tech in Energy Engineering, and Ph.D programs. The department has an intake of 120 students and focuses on energy systems, thermal sciences, and manufacturing technologies supported by experienced faculty and laboratory infrastructure.",
+    "keywords": [
+      "Mechanical Engineering RGMCET",
+      "ME department overview",
+      "Energy Engineering MTech",
+      "Mechanical intake 120",
+      "Mechanical programs RGMCET"
+    ],
+    "metadata": {
+      "entity_type": "department_overview"
+    }
+  },
+  {
+    "id": "dept_me_faculty_1",
+    "category": "departments",
+    "subcategory": "faculty",
+    "department": "me",
+    "title": "Mechanical Engineering Faculty",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The Mechanical Engineering department is supported by experienced faculty members including Dr. K. Thirupathi Reddy, Dr. Syed Altaf Hussain, Dr. B. Sidda Reddy, Dr. V. Chandra Sekhar, and other qualified professors contributing to teaching and research activities.",
+    "keywords": [
+      "Mechanical faculty RGMCET",
+      "ME professors",
+      "Dr Thirupathi Reddy",
+      "Mechanical department staff",
+      "Mechanical engineering faculty"
+    ],
+    "metadata": {
+      "entity_type": "department_faculty"
+    },
+    "top_faculty": [
+      "Dr. K. Thirupathi Reddy",
+      "Dr. Syed Altaf Hussain",
+      "Dr. B. Sidda Reddy",
+      "Dr. V. Chandra Sekhar",
+      "Dr. Upendra Rajak",
+      "Dr. M. Ashok Kumar",
+      "Dr. K. Sudha Madhuri",
+      "Dr. Manoj Panchal",
+      "Dr. V. Siva Reddy",
+      "Mr. B. Chinna Ankanna"
+    ]
+  },
+  {
+    "id": "dept_me_research_1",
+    "category": "departments",
+    "subcategory": "research",
+    "department": "me",
+    "title": "Mechanical Engineering Research Supervisors",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The Mechanical Engineering department has recognized research supervisors working in areas such as energy systems, thermal engineering, manufacturing, and mechanical design.",
+    "keywords": [
+      "Mechanical research RGMCET",
+      "ME research supervisors",
+      "thermal research",
+      "energy systems research",
+      "mechanical PhD supervisors"
+    ],
+    "metadata": {
+      "entity_type": "department_research"
+    },
+    "research_supervisors": [
+      "Dr. K. Thirupathi Reddy",
+      "Dr. Syed Altaf Hussain",
+      "Dr. V. Siva Reddy",
+      "Dr. B. Sidda Reddy",
+      "Dr. M. Ashok Kumar"
+    ]
+  },
+  {
+    "id": "dept_me_achievements_1",
+    "category": "departments",
+    "subcategory": "achievements",
+    "department": "me",
+    "title": "Mechanical Engineering Achievements",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The Mechanical Engineering department has received several recognitions including national research awards, ISTE Best B.Tech Project awards, funded research projects worth approximately two crore rupees, and establishment of an incubation center supporting innovation and consultancy activities.",
+    "keywords": [
+      "Mechanical achievements RGMCET",
+      "ME awards",
+      "research funding mechanical",
+      "ISTE project award",
+      "mechanical incubation center"
+    ],
+    "metadata": {
+      "entity_type": "department_achievements"
+    },
+    "top_awards": [
+      "Shrimati Vijay Usha Sodha Research Award",
+      "Hari Om Ashram Young Scientist Award",
+      "ISTE Best B.Tech Project Award",
+      "Multiple Ph.D awards to faculty",
+      "Research projects worth ₹2 crore",
+      "NBA Tier-I Accreditation",
+      "AICTE MODROBS and RPS funding",
+      "Incubation center established",
+      "Consultancy in energy auditing",
+      "Student prizes in national events"
+    ]
+  },
+  {
+    "id": "dept_ece_overview_1",
+    "category": "departments",
+    "subcategory": "overview",
+    "department": "ece",
+    "title": "Electronics and Communication Engineering Department Overview",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The Electronics and Communication Engineering (ECE) department at RGMCET offers B.Tech in ECE, M.Tech in VLSI Design, and Ph.D programs. The department has an intake of 240 students and is supported by advanced laboratories in communication systems, signal processing, and VLSI design along with experienced faculty.",
+    "keywords": [
+      "ECE RGMCET",
+      "electronics department overview",
+      "VLSI MTech RGMCET",
+      "ECE intake 240",
+      "communication engineering RGMCET"
+    ],
+    "metadata": {
+      "entity_type": "department_overview"
+    }
+  },
+  {
+    "id": "dept_ece_faculty_1",
+    "category": "departments",
+    "subcategory": "faculty",
+    "department": "ece",
+    "title": "ECE Distinguished Faculty",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The ECE department is supported by experienced faculty members including Dr. J. Sofia Priya Dharshini, Dr. A. Sathish, Dr. T. Jayachandra Prasad, Dr. D. Satyanarayana, and other qualified professors contributing to teaching and research.",
+    "keywords": [
+      "ECE faculty RGMCET",
+      "electronics professors",
+      "Dr Jayachandra Prasad",
+      "ECE department staff",
+      "communication engineering faculty"
+    ],
+    "metadata": {
+      "entity_type": "department_faculty"
+    },
+    "top_faculty": [
+      "Dr. J. Sofia Priya Dharshini",
+      "Dr. A. Sathish",
+      "Dr. T. Jayachandra Prasad",
+      "Dr. D. Satyanarayana",
+      "Dr. Gopi Krishna Rao",
+      "Dr. C. Venkataiah",
+      "Dr. V. N. V. Satya Prakash",
+      "Dr. R. Hanuma Naik",
+      "Dr. M. Ramana Reddy",
+      "Mr. N. Nagaraja Kumar"
+    ]
+  },
+  {
+    "id": "dept_ece_research_1",
+    "category": "departments",
+    "subcategory": "research",
+    "department": "ece",
+    "title": "ECE Research Supervisors and Areas",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The ECE department has recognized research supervisors working in areas such as VLSI design, communication systems, signal processing, embedded systems, and nano electronics.",
+    "keywords": [
+      "ECE research RGMCET",
+      "VLSI research supervisors",
+      "communication systems research",
+      "embedded systems research",
+      "ECE PhD supervisors"
+    ],
+    "metadata": {
+      "entity_type": "department_research"
+    },
+    "research_supervisors": [
+      "Dr. T. Jayachandra Prasad",
+      "Dr. D. Satyanarayana",
+      "Dr. A. Sathish",
+      "Dr. P. Gopi Krishna Rao"
+    ]
+  },
+  {
+    "id": "dept_ece_labs_1",
+    "category": "departments",
+    "subcategory": "labs",
+    "department": "ece",
+    "title": "ECE Laboratories",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The ECE department maintains advanced laboratories supporting practical learning and research in communication, VLSI, signal processing, and embedded systems.",
+    "keywords": [
+      "ECE labs RGMCET",
+      "communication lab",
+      "VLSI laboratory",
+      "embedded systems lab",
+      "electronics lab facilities"
+    ],
+    "metadata": {
+      "entity_type": "department_labs"
+    }
+  },
+  {
+    "id": "dept_ece_achievements_1",
+    "category": "departments",
+    "subcategory": "achievements",
+    "department": "ece",
+    "title": "ECE Department Achievements",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The ECE department has earned recognitions including national faculty awards, IUCEE Faculty Leadership Award, ISSRD Best Supervisor Award, funded research projects worth over one crore rupees, and establishment of a virtual nano laboratory.",
+    "keywords": [
+      "ECE achievements",
+      "IUCEE award",
+      "virtual nano lab",
+      "ECE research funding",
+      "electronics department awards"
+    ],
+    "metadata": {
+      "entity_type": "department_achievements"
+    },
+    "top_awards": [
+      "Women Coordinator Award (2023)",
+      "Best Faculty National Award",
+      "IUCEE Faculty Leadership Award",
+      "ISSRD Best Supervisor Award",
+      "Multiple doctoral completions",
+      "NASA Space App Challenge recognition",
+      "NBA Tier-1 accreditation",
+      "₹1.34 crore funded projects",
+      "Virtual Nano Lab established",
+      "IEEE and IETE affiliations"
+    ]
+  },
+  {
+    "id": "dept_cse_overview_1",
+    "category": "departments",
+    "subcategory": "overview",
+    "department": "cse",
+    "title": "Computer Science and Engineering Department Overview",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The Computer Science and Engineering (CSE) department at RGMCET offers B.Tech in Computer Science and Engineering, M.Tech in Computer Science, and Ph.D programs. The department has an intake of 420 students and focuses on software engineering, artificial intelligence, data science, and advanced computing technologies supported by experienced faculty and modern laboratories.",
+    "keywords": [
+      "CSE RGMCET",
+      "computer science department",
+      "CSE intake 420",
+      "AI and data science RGMCET",
+      "computer science programs"
+    ],
+    "metadata": {
+      "entity_type": "department_overview"
+    }
+  },
+  {
+    "id": "dept_cse_faculty_1",
+    "category": "departments",
+    "subcategory": "faculty",
+    "department": "cse",
+    "title": "CSE Distinguished Faculty",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The CSE department is supported by experienced faculty members including Dr. K. Subba Reddy, Dr. Rajaboina Raja Kumar, Dr. M. Sravan Kumar Reddy, Dr. K. Narsimhulu, and other qualified professors contributing to teaching and research in computing technologies.",
+    "keywords": [
+      "CSE faculty RGMCET",
+      "computer science professors",
+      "Dr Subba Reddy",
+      "CSE department staff",
+      "software engineering faculty"
+    ],
+    "metadata": {
+      "entity_type": "department_faculty"
+    },
+    "top_faculty": [
+      "Dr. K. Subba Reddy",
+      "Dr. Rajaboina Raja Kumar",
+      "Dr. M. Sravan Kumar Reddy",
+      "Dr. K. Narsimhulu",
+      "Dr. P. Sreedevi",
+      "Dr. N. Madhusudhana Reddy",
+      "Dr. G. Sunil Vijaya Kumar",
+      "Dr. P. Prathap Naidu",
+      "Dr. N. Ramajanyea Reddy",
+      "Dr. B. Rama Subbaiah"
+    ]
+  },
+  {
+    "id": "dept_cse_research_1",
+    "category": "departments",
+    "subcategory": "research",
+    "department": "cse",
+    "title": "CSE Research Supervisors and Areas",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The CSE department has recognized research supervisors working in areas such as artificial intelligence, machine learning, data science, cloud computing, and advanced software systems.",
+    "keywords": [
+      "CSE research RGMCET",
+      "AI research supervisors",
+      "machine learning research",
+      "cloud computing research",
+      "CSE PhD supervisors"
+    ],
+    "metadata": {
+      "entity_type": "department_research"
+    },
+    "research_supervisors": [
+      "Dr. K. Subba Reddy",
+      "Dr. N. Madhusudhana Reddy",
+      "Dr. G. Sunil Vijay Kumar",
+      "Dr. R. Raja Kumar",
+      "Dr. N. Ramanjaneya Reddy",
+      "Dr. M. Sravan Kumar Reddy"
+    ]
+  },
+  {
+    "id": "dept_cse_labs_1",
+    "category": "departments",
+    "subcategory": "labs",
+    "department": "cse",
+    "title": "CSE Laboratories and Computing Facilities",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The CSE department maintains modern computing laboratories supporting programming, data science, artificial intelligence, networks, and software development practical training for students.",
+    "keywords": [
+      "CSE labs RGMCET",
+      "computer labs",
+      "AI lab",
+      "programming lab",
+      "software development lab"
+    ],
+    "metadata": {
+      "entity_type": "department_labs"
+    }
+  },
+  {
+    "id": "dept_cse_achievements_1",
+    "category": "departments",
+    "subcategory": "achievements",
+    "department": "cse",
+    "title": "CSE Department Achievements",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The CSE department has received multiple recognitions including Google Certified Educator awards, AWS Academy recognition, Best Researcher awards, and numerous Scopus and Web of Science indexed publications by faculty and students.",
+    "keywords": [
+      "CSE achievements",
+      "AWS academy RGMCET",
+      "Google educator award",
+      "CSE research publications",
+      "computer science awards"
+    ],
+    "metadata": {
+      "entity_type": "department_achievements"
+    },
+    "top_awards": [
+      "Google Certified Educator Award (2025)",
+      "Best Performing CoE Coordinator (2025)",
+      "Educator Excellence Award",
+      "Research and Development Leadership Award",
+      "Best Researcher Award",
+      "Curriculum Integration Award",
+      "AWS Academy Best Institute",
+      "Master Educator Award",
+      "Student Mentorship Award",
+      "Multiple Scopus and Web of Science publications"
+    ]
+  }
+]

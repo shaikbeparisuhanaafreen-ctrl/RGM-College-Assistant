@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>RGMCET Navigation</title>
+
+<link rel="stylesheet"
+href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+<style>
+
+body{
+font-family:Arial;
+margin:0;
+background:#f5f7fb;
+}
+
+.header{
+padding:15px;
+background:#111;
+color:white;
+font-size:18px;
+text-align:center;
+}
+
+#map{
+height:90vh;
+width:100%;
+}
+
+.nav-btn{
+position:absolute;
+top:80px;
+left:20px;
+z-index:1000;
+padding:10px 16px;
+background:#2563eb;
+color:white;
+border:none;
+border-radius:10px;
+cursor:pointer;
+}
+.route-panel{
+position:absolute;
+top:70px;
+left:20px;
+background:white;
+padding:12px;
+border-radius:10px;
+z-index:1000;
+box-shadow:0 2px 10px rgba(0,0,0,0.2);
+}
+
+.route-panel input{
+padding:6px;
+margin:4px;
+width:150px;
+}
+
+.route-panel button{
+padding:6px 10px;
+margin:4px;
+cursor:pointer;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="header">
+RGMCET Campus Navigation
+</div>
+
+<button class="nav-btn" onclick="startNavigation()">
+📍 Navigate to Library
+</button>
+<div class="route-panel">
+
+<input id="userLat" placeholder="User Latitude">
+<input id="userLng" placeholder="User Longitude">
+
+<button onclick="getMyLocation()">📍</button>
+
+<input id="destinationInput" placeholder="Enter destination (canteen, civil_block)">
+
+<button onclick="navigateRoute()">Navigate</button>
+<button onclick="openGoogleMaps()">🗺️ Google Maps</button>
+</div>
+<div id="map"></div>
+
+<script>
+
+const destination = {
+name:"Rajeev Gandhi Memorial College of Engineering & Technology",
+"lat": 15.505326,
+"lng": 78.377170
+};
+
+let map;
+
+function initMap(){
+
+map = L.map("map").setView([destination.lat,destination.lng],17);
+
+L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",{
+attribution:"© OpenStreetMap"
+}).addTo(map);
+
+L.marker([destination.lat,destination.lng])
+.addTo(map)
+.bindPopup(destination.name)
+.openPopup();
+
+}
+
+initMap();
+
+
+async function startNavigation(){
+
+if(!navigator.geolocation){
+alert("Geolocation not supported");
+return;
+}
+
+navigator.geolocation.getCurrentPosition(async function(position){
+
+const userLat = position.coords.latitude;
+const userLng = position.coords.longitude;
+
+
+// ⭐ SAVE USER LOCATION
+await fetch("/save_location",{
+method:"POST",
+headers:{
+"Content-Type":"application/json"
+},
+body:JSON.stringify({
+lat:userLat,
+lng:userLng
+})
+});
+
+
+// ⭐ GET DISTANCE
+const res = await fetch("/get_distance",{
+method:"POST",
+headers:{
+"Content-Type":"application/json"
+},
+body:JSON.stringify({
+lat:userLat,
+lng:userLng
+})
+});
+
+const data = await res.json();
+
+drawRoute(userLat,userLng,data);
+
+});
+}
+function drawRoute(userLat,userLng,data){
+
+// user marker
+L.marker([userLat,userLng])
+.addTo(map)
+.bindPopup("📍 Your Location")
+.openPopup();
+
+// destination marker
+L.marker([data.college_lat,data.college_lng])
+.addTo(map)
+.bindPopup("🏫 RGMCET Library");
+
+// route line
+const route = L.polyline([
+[userLat,userLng],
+[data.college_lat,data.college_lng]
+],{
+color:"blue",
+weight:4
+}).addTo(map);
+
+map.fitBounds(route.getBounds());
+
+// info box
+const info = L.popup({
+closeButton:false,
+offset:[0,-10]
+})
+.setLatLng([
+(userLat+data.college_lat)/2,
+(userLng+data.college_lng)/2
+])
+.setContent(`
+<b>Distance:</b> ${data.distance_km} km<br>
+<b>Suggestion:</b> ${data.suggestion}
+`)
+.openOn(map);
+
+}
+async function getSavedLocation(){
+
+const res = await fetch("/get_saved_location");
+const data = await res.json();
+
+return data;
+
+}
+async function getMyLocation(){
+
+if(!navigator.geolocation){
+alert("Geolocation not supported");
+return;
+}
+
+navigator.geolocation.getCurrentPosition(async function(pos){
+
+const lat = pos.coords.latitude;
+const lng = pos.coords.longitude;
+
+// fill input boxes
+document.getElementById("userLat").value = lat;
+document.getElementById("userLng").value = lng;
+
+
+// save to json
+await fetch("/save_location",{
+method:"POST",
+headers:{
+"Content-Type":"application/json"
+},
+body:JSON.stringify({
+lat:lat,
+lng:lng
+})
+});
+
+alert("Location saved!");
+
+});
+}
+async function navigateRoute(){
+
+const userLat = parseFloat(document.getElementById("userLat").value);
+const userLng = parseFloat(document.getElementById("userLng").value);
+
+const place = document.getElementById("destinationInput").value;
+
+
+// get campus locations
+const resCampus = await fetch("/get_campus_locations");
+const campus = await resCampus.json();
+
+
+const input = place.toLowerCase().trim();
+
+let destination = null;
+
+for(const key in campus){
+
+    const keyName = key.toLowerCase();
+    const locationName = campus[key].name.toLowerCase();
+
+    if(
+        keyName.includes(input) ||
+        locationName.includes(input)
+    ){
+        destination = campus[key];
+        break;
+    }
+}
+
+if(!destination){
+alert("Location not found in campus database");
+return;
+}
+
+
+// calculate route
+const res = await fetch("/get_distance",{
+method:"POST",
+headers:{
+"Content-Type":"application/json"
+},
+body:JSON.stringify({
+lat:userLat,
+lng:userLng,
+dest_lat:destination.lat,
+dest_lng:destination.lng
+})
+});
+
+const data = await res.json();
+
+drawRoute(userLat,userLng,data,destination);
+
+}
+function openGoogleMaps(){
+
+const userLat = document.getElementById("userLat").value;
+const userLng = document.getElementById("userLng").value;
+
+const destinationName = document.getElementById("destinationInput").value;
+
+fetch("/get_campus_locations")
+.then(res => res.json())
+.then(data => {
+
+const dest = data[destinationName];
+
+if(!dest){
+alert("Destination not found");
+return;
+}
+
+const destLat = dest.lat;
+const destLng = dest.lng;
+
+const url = `https://www.google.com/maps/dir/${userLat},${userLng}/${destLat},${destLng}`;
+
+window.open(url,"_blank");
+
+});
+
+}
+
+</script>
+
+</body>
+</html>

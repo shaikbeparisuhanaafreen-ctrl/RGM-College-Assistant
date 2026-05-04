@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>College AI</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+```
+<!-- ===== TOP NAVBAR ===== -->
+<div class="navbar">
+    <div class="logo">College AI Assistant</div>
+
+    <div class="nav-right">
+        {% if not session.get("username") %}
+            <a href="/login" class="nav-btn">Login</a>
+            <a href="/register" class="nav-btn">Register</a>
+        {% endif %}
+    </div>
+</div>
+
+{% block content %}{% endblock %}
+```
+
+</body>
+</html>

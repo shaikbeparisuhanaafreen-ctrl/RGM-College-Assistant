@@ -1,0 +1,97 @@
+[
+{
+  "id": "academics_programs_overview_1",
+  "category": "academics",
+  "subcategory": "programs",
+  "department": null,
+  "title": "Academic Programs at RGMCET",
+  "url": "https://www.rgmcet.edu.in",
+  "content": "RGMCET offers undergraduate, postgraduate, doctoral, and certification programs across engineering, science, and management disciplines.",
+  "keywords": [
+    "RGMCET courses",
+    "RGMCET programs",
+    "UG PG PhD courses",
+    "engineering courses RGMCET",
+    "RGMCET academics"
+  ],
+  "metadata": {
+    "entity_type": "programs"
+  }
+},
+{
+  "id": "academics_ug_programs_1",
+  "category": "academics",
+  "subcategory": "programs",
+  "department": null,
+  "title": "Undergraduate Engineering Programs at RGMCET",
+  "url": "https://www.rgmcet.edu.in",
+  "content": "RGMCET offers B.Tech programs in Civil Engineering (intake 120), Electrical and Electronics Engineering (120), Mechanical Engineering (120), Electronics and Communication Engineering (240), Computer Science and Engineering (420), CSE Data Science (240), CSE Artificial Intelligence and Machine Learning (240), and CSE Cyber Security (120).",
+  "keywords": [
+    "RGMCET BTech courses",
+    "CSE intake RGMCET",
+    "EEE Mechanical Civil courses",
+    "engineering branches RGMCET",
+    "UG engineering RGMCET"
+  ],
+  "metadata": {
+    "entity_type": "programs_ug"
+  }
+},
+{
+  "id": "academics_pg_programs_1",
+  "category": "academics",
+  "subcategory": "programs",
+  "department": null,
+  "title": "Postgraduate Programs at RGMCET",
+  "url": "https://www.rgmcet.edu.in",
+  "content": "RGMCET offers postgraduate programs including Computer Aided and Structural Engineering (18), Electrical Drives and Control (18), Energy Engineering (9), VLSI Design (18), Computer Science (9), MBA (60), and MCA (60).",
+  "keywords": [
+    "RGMCET MTech courses",
+    "MBA MCA RGMCET",
+    "PG programs RGMCET",
+    "VLSI Energy Engineering",
+    "postgraduate courses RGMCET"
+  ],
+  "metadata": {
+    "entity_type": "programs_pg"
+  }
+},
+{
+  "id": "academics_phd_programs_1",
+  "category": "academics",
+  "subcategory": "programs",
+  "department": null,
+  "title": "Doctoral Programs at RGMCET",
+  "url": "https://www.rgmcet.edu.in",
+  "content": "RGMCET offers PhD programs in Civil Engineering, Electrical and Electronics Engineering, Mechanical Engineering, Electronics and Communication Engineering, Physics, Mathematics, and MBA.",
+  "keywords": [
+    "RGMCET PhD",
+    "doctoral programs RGMCET",
+    "research programs",
+    "PhD engineering RGMCET",
+    "PhD admission RGMCET"
+  ],
+  "metadata": {
+    "entity_type": "programs_phd"
+  }
+},
+{
+  "id": "academics_certification_programs_1",
+  "category": "academics",
+  "subcategory": "programs",
+  "department": null,
+  "title": "Certification Courses at RGMCET",
+  "url": "https://www.rgmcet.edu.in",
+  "content": "RGMCET offers certification programs under the Deen Dayal Upadhyay Kaushal Kendra including Computer Hardware, Linux Programming, and Data Entry Operator courses.",
+  "keywords": [
+    "RGMCET certification courses",
+    "Kaushal Kendra RGMCET",
+    "Linux course RGMCET",
+    "Computer Hardware course",
+    "skill development courses"
+  ],
+  "metadata": {
+    "entity_type": "programs_certificate"
+  }
+}
+]

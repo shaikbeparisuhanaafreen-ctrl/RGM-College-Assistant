@@ -1,0 +1,9 @@
+torch                     2.6.0+cpu
+sentence_transformers     5.1.1
+faiss                     1.10.0
+flask                     3.1.0
+transformers              4.57.1
+numpy                     2.0.2
+pandas                    2.2.2
+
+pip install pymongo flask-bcrypt python-dotenv

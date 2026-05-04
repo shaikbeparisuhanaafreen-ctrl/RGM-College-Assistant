@@ -1,0 +1,72 @@
+[
+{
+  "id": "admissions_process_1",
+  "category": "admissions",
+  "subcategory": "process",
+  "department": null,
+  "title": "RGMCET Admissions Procedure",
+  "url": "https://www.rgmcet.edu.in/admissions",
+  "content": "Admissions to RGMCET programs are conducted through state and national level entrance examinations in accordance with government and university regulations. B.Tech admissions are handled by the Andhra Pradesh EAMCET convener based on state-wide ranks and reservation policies. M.Tech admissions are based on GATE or PGECET ranks, while MBA and MCA admissions are based on ICET or PGECET merit. Ph.D admissions are governed by JNTUA regulations.",
+  "keywords": [
+    "RGMCET admission process",
+    "EAMCET admission RGMCET",
+    "PGECET GATE admission",
+    "MBA MCA admission RGMCET",
+    "PhD admission JNTUA"
+  ],
+  "metadata": {
+    "entity_type": "admission_process"
+  }
+},
+
+{
+  "id": "admissions_fees_1",
+  "category": "admissions",
+  "subcategory": "fees_scholarships",
+  "department": null,
+  "title": "RGMCET Fee Structure",
+  "url": "https://www.rgmcet.edu.in",
+  "content": "The tuition fee at RGMCET for the academic years 2023-24 to 2025-26 is fixed by the Andhra Pradesh Higher Education Regulatory and Monitoring Commission (APHERMC). The annual fee is ₹76,010 for B.Tech, ₹69,080 for M.Tech, ₹51,300 for MBA, and ₹60,000 for MCA programs.",
+  "keywords": [
+    "RGMCET fees",
+    "BTech fee RGMCET",
+    "MBA MCA fee",
+    "APHERMC fee structure",
+    "engineering college fees Nandyal"
+  ],
+  "metadata": {
+    "entity_type": "fees"
+  },
+  "fees": {
+    "btech": "₹76,010 per year",
+    "mtech": "₹69,080 per year",
+    "mba": "₹51,300 per year",
+    "mca": "₹60,000 per year",
+    "fee_go": {
+      "btech": "GO No. 41",
+      "mtech": "GO Ms. No. 51",
+      "mba_mca": "GO Ms. No. 48"
+    }
+  }
+},
+{
+  "id": "admissions_scholarships_1",
+  "category": "admissions",
+  "subcategory": "fees_scholarships",
+  "department": null,
+  "title": "RGMCET Scholarships and Fee Reimbursement",
+  "url": "https://www.rgmcet.edu.in",
+  "content": "RGMCET provides multiple scholarship and fee reimbursement opportunities. Students admitted with EAMCET rank below 10,000 receive full tuition fee waiver for four years. The Government of Andhra Pradesh offers tuition fee reimbursement to eligible students. GATE-qualified M.Tech students are eligible for AICTE stipend, and PGECET or ICET admitted students may receive government fee reimbursement subject to eligibility.",
+  "keywords": [
+    "RGMCET scholarship",
+    "fee reimbursement RGMCET",
+    "EAMCET fee waiver",
+    "AICTE GATE stipend",
+    "AP government scholarship"
+  ],
+  "metadata": {
+    "entity_type": "scholarship"
+  },
+  "online_registration": "https://administration.rgmcet.edu.in/"
+}
+]

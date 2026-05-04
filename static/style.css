@@ -1,0 +1,168 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    background: #0f0f0f;
+    color: white;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+}
+
+/* SIDEBAR */
+.sidebar {
+    width: 250px;
+    background: #1a1a1a;
+    padding: 20px;
+}
+
+.sidebar h3 {
+    margin-top: 0;
+}
+
+.login-msg {
+    color: gray;
+    font-size: 14px;
+}
+
+.small-btn {
+    display: block;
+    width: 100%;
+    margin: 8px 0;
+    padding: 8px;
+    background: #2a2a2a;
+    border: none;
+    color: white;
+    text-align: left;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.logout {
+    background: #444;
+}
+
+/* MAIN */
+.main {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.top-bar {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 30px;
+    background: #1a1a1a;
+}
+
+.logo {
+    font-weight: bold;
+}
+
+.btn {
+    margin-left: 10px;
+    padding: 6px 12px;
+    background: #333;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+.center {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* INPUT AREA */
+.input-box {
+    display: flex;
+    align-items: center;
+    background: #1f1f1f;
+    padding: 10px;
+    border-radius: 25px;
+    width: 600px;
+    margin-top: 20px;
+}
+
+.input-box input[type="text"] {
+    flex: 1;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 10px;
+}
+
+.icon {
+    background: transparent;
+    border: none;
+    font-size: 18px;
+    margin: 0 5px;
+    cursor: pointer;
+    color: white;
+}
+
+.send {
+    background: #444;
+    border: none;
+    padding: 8px 14px;
+    border-radius: 50%;
+    cursor: pointer;
+    color: white;
+}
+.recording-box {
+    background: #111;
+    padding: 12px;
+    border-radius: 12px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.progress-bar {
+    width: 100%;
+    height: 6px;
+    background: #333;
+    border-radius: 10px;
+    margin: 10px 0;
+    overflow: hidden;
+}
+
+.progress {
+    height: 100%;
+    width: 100%;
+    background: red;
+    animation: loading 2s linear infinite;
+}
+
+@keyframes loading {
+    0% { transform: translateX(-100%); }
+    100% { transform: translateX(100%); }
+}
+
+.stop-btn {
+    background: red;
+    color: white;
+    border: none;
+    padding: 6px 14px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.image-gallery {
+    margin-top: 10px;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.chat-image {
+    width: 180px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 8px;
+    border: 1px solid #333;
+}

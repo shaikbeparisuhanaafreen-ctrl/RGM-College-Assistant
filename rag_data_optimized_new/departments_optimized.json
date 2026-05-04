@@ -1,0 +1,1594 @@
+[
+  {
+    "id": "dept_ce_overview_1",
+    "category": "departments",
+    "subcategory": "overview",
+    "department": "ce",
+    "title": "Civil Engineering Department Overview",
+    "url": "https://www.rgmcet.edu.in/department-of-ce",
+    "content": "The Civil Engineering department at RGMCET was established in 2008. It offers B.Tech in Civil Engineering with an intake of 120 and M.Tech in Computer Aided Structural Engineering with an intake of 18. The department provides quality education supported by experienced faculty, modern laboratories, and strong infrastructure.",
+    "keywords": [
+      "RGMCET civil engineering",
+      "civil department overview",
+      "BTech civil intake",
+      "MTech structural engineering",
+      "civil engineering RGMCET"
+    ],
+    "metadata": {
+      "entity_type": "department_overview",
+      "established_year": 2008
+    },
+    "text_for_embedding": "Civil Engineering Department Overview | Category: departments | Subcategory: overview | Department: ce | Keywords: RGMCET civil engineering, civil department overview, BTech civil intake, MTech structural engineering, civil engineering RGMCET | The Civil Engineering department at RGMCET was established in 2008. It offers B.Tech in Civil Engineering with an intake of 120 and M.Tech in Computer Aided Structural Engineering with an intake of 18. The department provides quality education supported by experienced faculty, modern laboratories, and strong infrastructure.",
+    "images": [
+      {"url": "https://www.rgmcet.edu.in/assets/img/banner/CE.jpg",
+      "name": "CE Department Building"}]
+  },
+  {
+    "id": "dept_ce_vision_mission_1",
+    "category": "departments",
+    "subcategory": "overview",
+    "department": "ce",
+    "title": "Civil Engineering Vision and Mission",
+    "url": "https://www.rgmcet.edu.in/department-of-ce",
+    "content": "The department aims to provide value-based civil engineering education that produces socially responsible professionals. It focuses on innovation, research orientation, leadership, teamwork, and strong industry collaboration.",
+    "keywords": [
+      "civil engineering vision",
+      "civil mission RGMCET",
+      "civil department goals",
+      "engineering leadership",
+      "civil education objectives"
+    ],
+    "metadata": {
+      "entity_type": "department_vision"
+    },
+    "text_for_embedding": "Civil Engineering Vision and Mission | Category: departments | Subcategory: overview | Department: ce | Keywords: civil engineering vision, civil mission RGMCET, civil department goals, engineering leadership, civil education objectives | The department aims to provide value-based civil engineering education that produces socially responsible professionals. It focuses on innovation, research orientation, leadership, teamwork, and strong industry collaboration.",
+    "images": []
+  },
+  {
+    "id": "dept_ce_faculty_1",
+    "category": "departments",
+    "subcategory": "faculty",
+    "department": "ce",
+    "title": "Civil Engineering Faculty",
+    "url": "https://www.rgmcet.edu.in/ce_faculty",
+    "content": "The Civil Engineering department is headed by Dr. G. Sreenivasulu and supported by qualified professors, associate professors, and assistant professors contributing to teaching and research.",
+    "keywords": [
+      "civil engineering faculty",
+      "CE HOD RGMCET",
+      "Dr G Sreenivasulu",
+      "civil professors",
+      "civil department staff"
+    ],
+    "metadata": {
+      "entity_type": "department_faculty"
+    },
+    "text_for_embedding": "Civil Engineering Faculty | Category: departments | Subcategory: faculty | Department: ce | Keywords: civil engineering faculty, CE HOD RGMCET, Dr G Sreenivasulu, civil professors, civil department staff | The Civil Engineering department is headed by Dr. G. Sreenivasulu and supported by qualified professors, associate professors, and assistant professors contributing to teaching and research.",
+    "images": ["https://www.rgmcet.edu.in/assets/img/teacher/CE/26.jpg"]
+  },
+  {
+    "id": "dept_ce_programs_1",
+    "category": "departments",
+    "subcategory": "programs",
+    "department": "ce",
+    "title": "Civil Engineering Programs",
+    "url": "https://www.rgmcet.edu.in/ce_dp.php",
+    "content": "The department offers B.Tech in Civil Engineering under multiple regulations and M.Tech in Structural Engineering with semester-wise curriculum.",
+    "keywords": [
+      "civil engineering programs",
+      "BTech civil RGMCET",
+      "MTech structural",
+      "civil curriculum",
+      "civil courses"
+    ],
+    "metadata": {
+      "entity_type": "department_programs"
+    },
+    "text_for_embedding": "Civil Engineering Programs | Category: departments | Subcategory: programs | Department: ce | Keywords: civil engineering programs, BTech civil RGMCET, MTech structural, civil curriculum, civil courses | The department offers B.Tech in Civil Engineering under multiple regulations and M.Tech in Structural Engineering with semester-wise curriculum.",
+    "images": []
+  },
+  {
+    "id": "dept_ce_research_1",
+    "category": "departments",
+    "subcategory": "research",
+    "department": "ce",
+    "title": "Civil Engineering Research",
+    "url": "https://www.rgmcet.edu.in/ce_rnd.php",
+    "content": "The Civil Engineering department conducts research in Structural Engineering, Water Resources, Environmental Engineering, Remote Sensing, GIS, and Machine Learning applications in civil engineering.",
+    "keywords": [
+      "civil research areas",
+      "structural engineering research",
+      "GIS civil RGMCET",
+      "civil publications",
+      "civil research supervisors"
+    ],
+    "metadata": {
+      "entity_type": "department_research"
+    },
+    "text_for_embedding": "Civil Engineering Research | Category: departments | Subcategory: research | Department: ce | Keywords: civil research areas, structural engineering research, GIS civil RGMCET, civil publications, civil research supervisors | The Civil Engineering department conducts research in Structural Engineering, Water Resources, Environmental Engineering, Remote Sensing, GIS, and Machine Learning applications in civil engineering.",
+    "images": []
+  },
+  {
+    "id": "dept_ce_labs_1",
+    "category": "departments",
+    "subcategory": "labs",
+    "department": "ce",
+    "title": "Civil Engineering Laboratories",
+    "url": "Civil Engineering Lab Document",
+    "content": "The department has advanced laboratories including Concrete Technology Lab, Engineering Geology Lab, Environmental Engineering Lab, Geotechnical Lab, CAD & GIS Lab, Strength of Materials Lab, Survey Labs, Transportation Lab, and Advanced Structural Engineering Lab.",
+    "keywords": [
+      "civil labs RGMCET",
+      "concrete technology lab",
+      "geotechnical lab",
+      "survey lab civil",
+      "structural lab"
+    ],
+    "metadata": {
+      "entity_type": "department_labs"
+    },
+    "text_for_embedding": "Civil Engineering Laboratories | Category: departments | Subcategory: labs | Department: ce | Keywords: civil labs RGMCET, concrete technology lab, geotechnical lab, survey lab civil, structural lab | The department has advanced laboratories including Concrete Technology Lab, Engineering Geology Lab, Environmental Engineering Lab, Geotechnical Lab, CAD & GIS Lab, Strength of Materials Lab, Survey Labs, Transportation Lab, and Advanced Structural Engineering Lab.",
+    "documents": [
+  {
+    "title": "CE Lab Details",
+    "url": "https://www.rgmcet.edu.in/assets/img/documents/Department%20Programs/CE/Civil-lab.pdf",
+    "type": "pdf"
+  }
+],
+    "images": []
+  },
+  {
+  "id": "dept_eee_overview_1",
+  "category": "departments",
+  "subcategory": "overview",
+  "department": "eee",
+  "title": "Electrical and Electronics Engineering Department Overview",
+  "url": "https://www.rgmcet.edu.in",
+  "content": "The Electrical and Electronics Engineering (EEE) department at RGMCET offers B.Tech, M.Tech in Power Electronics, and Ph.D programs. The department has an intake of 120 students and is supported by well-equipped laboratories and experienced faculty.",
+  "keywords": [
+    "EEE RGMCET",
+    "electrical engineering department",
+    "power electronics MTech",
+    "EEE intake 120",
+    "electrical programs RGMCET"
+  ],
+  "metadata": {
+    "entity_type": "department_overview"
+  },
+  "text_for_embedding": "Electrical and Electronics Engineering Department Overview | Category: departments | Subcategory: overview | Department: eee | Keywords: EEE RGMCET, electrical engineering department, power electronics MTech, EEE intake 120, electrical programs RGMCET | The Electrical and Electronics Engineering (EEE) department at RGMCET offers B.Tech, M.Tech in Power Electronics, and Ph.D programs. The department has an intake of 120 students and is supported by well-equipped laboratories and experienced faculty.",
+  "images": [
+    {
+      "url": "https://www.rgmcet.edu.in/assets/img/banner/EEE.jpg",
+      "name": "EEE Department Building"
+    }
+  ]
+},
+{
+  "id": "dept_eee_labs_1",
+  "category": "departments",
+  "subcategory": "labs",
+  "department": "eee",
+  "title": "Electrical and Electronics Engineering Laboratories",
+  "url": "https://www.rgmcet.edu.in",
+  "content": "The Electrical and Electronics Engineering department provides well-equipped laboratories including power systems, power electronics, control systems, electrical machines, and measurements labs. These facilities support practical learning, experimentation, and research for undergraduate and postgraduate students.",
+  "keywords": [
+    "EEE labs RGMCET",
+    "electrical engineering lab",
+    "power electronics lab",
+    "electrical machines lab",
+    "control systems lab",
+    "power systems lab"
+  ],
+  "metadata": {
+    "entity_type": "department_labs"
+  },
+  "text_for_embedding": "Electrical and Electronics Engineering Laboratories | Category: departments | Subcategory: labs | Department: eee | Keywords: EEE labs RGMCET, electrical engineering lab, power electronics lab, electrical machines lab, control systems lab, power systems lab | The Electrical and Electronics Engineering department provides well-equipped laboratories including power systems, power electronics, control systems, electrical machines, and measurements labs. These facilities support practical learning, experimentation, and research for undergraduate and postgraduate students.",
+
+  "documents": [
+    {
+      "title": "EEE Lab Details",
+      "url": "https://www.rgmcet.edu.in/assets/img/documents/Department%20Programs/EEE/EEE-lab.pdf",
+      "type": "pdf"
+    }
+  ]
+},
+{
+  "id": "dept_eee_faculty_1",
+  "category": "departments",
+  "subcategory": "faculty",
+  "department": "eee",
+  "title": "EEE Faculty",
+  "content": "The Electrical and Electronics Engineering department has experienced professors and associate professors specializing in power systems, control systems, and power electronics.",
+  "metadata": {
+    "entity_type": "department_faculty"
+  },
+  "images": [
+    {
+      "url": "https://www.rgmcet.edu.in/assets/img/teacher/EEE/45.jpeg",
+      "name": "Dr.K.Bramhanandam",
+      "designation": "Professor",
+      "qualification": "M.Tech & Ph.D",
+      "faculty_id": "1-9474945368"
+    },
+    {
+      "url": "https://www.rgmcet.edu.in/assets/img/teacher/EEE/7.jpg",
+      "name": "Dr. NARASIMHULU V",
+      "designation": "Associate Professor",
+      "qualification": "M.Tech & Ph.D",
+      "faculty_id": "1-2662030563"
+    },
+    {
+      "url": "https://www.rgmcet.edu.in/assets/img/teacher/EEE/23.jpg",
+      "name": "Mr. Y. Vijaya Suresh",
+      "designation": "Associate Professor",
+      "qualification": "M.Tech (Ph.D)",
+      "faculty_id": "1-443226579"
+    },
+    {
+      "url": "https://www.rgmcet.edu.in/assets/img/teacher/EEE/19.jpg",
+      "name": "Mr. R SATISH KUMAR",
+      "designation": "Associate Professor",
+      "qualification": "M.Tech (Ph.D)",
+      "faculty_id": "1-443417428"
+    },
+    {
+      "url": "https://www.rgmcet.edu.in/assets/img/teacher/EEE/24.jpg",
+      "name": "Dr. D. V. Ashok Kumar",
+      "designation": "Professor",
+      "qualification": "M.Tech & Ph.D",
+      "faculty_id": "1-470749445"
+    },
+    {
+      "url": "https://www.rgmcet.edu.in/assets/img/teacher/EEE/20.jpg",
+      "name": "Dr. D. Lenine",
+      "designation": "Professor",
+      "qualification": "M.Tech & Ph.D",
+      "faculty_id": "1-443225884"
+    },
+    {
+      "url": "https://www.rgmcet.edu.in/assets/img/teacher/EEE/22.jpg",
+      "name": "Dr. J. Surya Kumari",
+      "designation": "Associate Professor",
+      "qualification": "M.Tech & Ph.D",
+      "faculty_id": "1-443225890"
+    }
+  ]
+},
+  {
+    "id": "dept_eee_achievements_1",
+    "category": "departments",
+    "subcategory": "achievements",
+    "department": "eee",
+    "title": "EEE Department Achievements",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The EEE department has received several recognitions including ISTE Best B.Tech Project Award, Smart India Hackathon Award, and installation of a 500 kW rooftop solar plant along with multiple GATE qualifications by students.",
+    "keywords": [
+      "EEE achievements",
+      "Smart India Hackathon EEE",
+      "ISTE project award",
+      "solar plant RGMCET",
+      "EEE awards"
+    ],
+    "metadata": {
+      "entity_type": "department_achievements"
+    },
+    "text_for_embedding": "EEE Department Achievements | Category: departments | Subcategory: achievements | Department: eee | Keywords: EEE achievements, Smart India Hackathon EEE, ISTE project award, solar plant RGMCET, EEE awards | The EEE department has received several recognitions including ISTE Best B.Tech Project Award, Smart India Hackathon Award, and installation of a 500 kW rooftop solar plant along with multiple GATE qualifications by students.",
+    "images": []
+  },
+  {
+    "id": "dept_me_overview_1",
+    "category": "departments",
+    "subcategory": "overview",
+    "department": "me",
+    "title": "Mechanical Engineering Department Overview",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The Mechanical Engineering department at RGMCET offers B.Tech in Mechanical Engineering, M.Tech in Energy Engineering, and Ph.D programs. The department has an intake of 120 students and focuses on energy systems, thermal sciences, and manufacturing technologies supported by experienced faculty and laboratory infrastructure.",
+    "keywords": [
+      "Mechanical Engineering RGMCET",
+      "ME department overview",
+      "Energy Engineering MTech",
+      "Mechanical intake 120",
+      "Mechanical programs RGMCET"
+    ],
+    "metadata": {
+      "entity_type": "department_overview"
+    },
+    "text_for_embedding": "Mechanical Engineering Department Overview | Category: departments | Subcategory: overview | Department: me | Keywords: Mechanical Engineering RGMCET, ME department overview, Energy Engineering MTech, Mechanical intake 120, Mechanical programs RGMCET | The Mechanical Engineering department at RGMCET offers B.Tech in Mechanical Engineering, M.Tech in Energy Engineering, and Ph.D programs. The department has an intake of 120 students and focuses on energy systems, thermal sciences, and manufacturing technologies supported by experienced faculty and laboratory infrastructure.",
+    "images": [{"url": "https://www.rgmcet.edu.in/assets/img/banner/ME.jpg",
+      "name": "ME Department Building"}]
+  },
+  {
+  "id": "dept_me_labs_1",
+  "category": "departments",
+  "subcategory": "labs",
+  "department": "me",
+  "title": "Mechanical Engineering Laboratories",
+  "url": "https://www.rgmcet.edu.in",
+  "content": "The Mechanical Engineering department provides well-equipped laboratories for thermal engineering, manufacturing processes, fluid mechanics, and machine design. These labs support practical learning and research activities for undergraduate and postgraduate students.",
+  "keywords": [
+    "ME labs RGMCET",
+    "mechanical engineering lab",
+    "thermal engineering lab",
+    "fluid mechanics lab",
+    "manufacturing lab",
+    "machine design lab"
+  ],
+  "metadata": {
+    "entity_type": "department_labs"
+  },
+  "text_for_embedding": "Mechanical Engineering Laboratories | Category: departments | Subcategory: labs | Department: me | Keywords: ME labs RGMCET, mechanical engineering lab, thermal engineering lab, fluid mechanics lab, manufacturing lab, machine design lab | The Mechanical Engineering department provides well-equipped laboratories for thermal engineering, manufacturing processes, fluid mechanics, and machine design. These labs support practical learning and research activities for undergraduate and postgraduate students.",
+  "documents": [
+    {
+      "title": "Mechanical Engineering Lab Details",
+      "url": "https://www.rgmcet.edu.in/assets/img/documents/Department%20Programs/ME/MELAB.pdf",
+      "type": "pdf"
+    }
+  ]
+},
+  {
+  "id": "dept_mech_faculty_1",
+  "category": "departments",
+  "subcategory": "faculty",
+  "department": "me",
+  "title": "Mechanical Distinguished Faculty",
+  "url": "https://www.rgmcet.edu.in",
+  "content": "The Mechanical Engineering department is supported by experienced faculty members including Dr. K. Thirupathi Reddy, Dr. Syed Altaf Hussain, Dr. V. Chandra Sekhar, Dr. B. Sidda Reddy, Dr. K. Sudha Madhuri, and others contributing to teaching and research.",
+  "keywords": [
+    "Mechanical faculty RGMCET",
+    "mechanical professors",
+    "Dr K Thirupathi Reddy",
+    "Mechanical staff",
+    "mechanical department faculty"
+  ],
+  "metadata": {
+    "entity_type": "department_faculty"
+  },
+  "top_faculty": [
+    "Dr. K. Thirupathi Reddy",
+    "Dr. Syed Altaf Hussain",
+    "Dr. V. Chandra Sekhar",
+    "Dr. B. Sidda Reddy",
+    "Dr. K. Sudha Madhuri",
+    "Dr. Manoj Panchal"
+  ],
+  "text_for_embedding": "Mechanical Distinguished Faculty | Category: departments | Subcategory: faculty | Department: mechanical | Keywords: Mechanical faculty RGMCET, mechanical professors, Dr K Thirupathi Reddy, Mechanical staff, mechanical department faculty | The Mechanical Engineering department is supported by experienced faculty members including Dr. K. Thirupathi Reddy, Dr. Syed Altaf Hussain, Dr. V. Chandra Sekhar, Dr. B. Sidda Reddy, Dr. K. Sudha Madhuri, and others contributing to teaching and research.",
+  "images": [
+    {
+      "url": "https://www.rgmcet.edu.in/assets/img/teacher/ME/101.jpg",
+      "name": "Dr. K. Thirupathi Reddy",
+      "designation": "Professor & HOD",
+      "qualification": "M.Tech & Ph.D",
+      "faculty_id": "1-442071415"
+    },
+    {
+      "url": "https://www.rgmcet.edu.in/assets/img/teacher/ME/20.jpg",
+      "name": "Dr. Syed Altaf Hussain",
+      "designation": "Professor",
+      "qualification": "M.Tech & Ph.D",
+      "faculty_id": "1-443478320"
+    },
+    {
+      "url": "https://www.rgmcet.edu.in/assets/img/teacher/ME/2.jpg",
+      "name": "Dr. V. Chandra Sekhar",
+      "designation": "Professor",
+      "qualification": "M.Tech & Ph.D",
+      "faculty_id": "1-443897711"
+    },
+    {
+      "url": "https://www.rgmcet.edu.in/assets/img/teacher/ME/21.jpg",
+      "name": "Dr. B. Sidda Reddy",
+      "designation": "Professor",
+      "qualification": "M.Tech & Ph.D",
+      "faculty_id": "1-442219740"
+    },
+    {
+      "url": "https://www.rgmcet.edu.in/assets/img/teacher/ME/22.jpg",
+      "name": "Dr. K. Sudha Madhuri",
+      "designation": "Associate Professor",
+      "qualification": "M.Tech & Ph.D",
+      "faculty_id": "1-1511002196"
+    },
+    {
+      "url": "https://www.rgmcet.edu.in/assets/img/teacher/ME/50.jpg",
+      "name": "Dr. Manoj Panchal",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech & Ph.D",
+      "faculty_id": "1-7436490672"
+    }
+  ]
+},
+  {
+    "id": "dept_me_research_1",
+    "category": "departments",
+    "subcategory": "research",
+    "department": "me",
+    "title": "Mechanical Engineering Research Supervisors",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The Mechanical Engineering department has recognized research supervisors working in areas such as energy systems, thermal engineering, manufacturing, and mechanical design.",
+    "keywords": [
+      "Mechanical research RGMCET",
+      "ME research supervisors",
+      "thermal research",
+      "energy systems research",
+      "mechanical PhD supervisors"
+    ],
+    "metadata": {
+      "entity_type": "department_research"
+    },
+    "research_supervisors": [
+      "Dr. K. Thirupathi Reddy",
+      "Dr. Syed Altaf Hussain",
+      "Dr. V. Siva Reddy",
+      "Dr. B. Sidda Reddy",
+      "Dr. M. Ashok Kumar"
+    ],
+    "text_for_embedding": "Mechanical Engineering Research Supervisors | Category: departments | Subcategory: research | Department: me | Keywords: Mechanical research RGMCET, ME research supervisors, thermal research, energy systems research, mechanical PhD supervisors | The Mechanical Engineering department has recognized research supervisors working in areas such as energy systems, thermal engineering, manufacturing, and mechanical design.",
+    "images": []
+  },
+  {
+    "id": "dept_me_achievements_1",
+    "category": "departments",
+    "subcategory": "achievements",
+    "department": "me",
+    "title": "Mechanical Engineering Achievements",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The Mechanical Engineering department has received several recognitions including national research awards, ISTE Best B.Tech Project awards, funded research projects worth approximately two crore rupees, and establishment of an incubation center supporting innovation and consultancy activities.",
+    "keywords": [
+      "Mechanical achievements RGMCET",
+      "ME awards",
+      "research funding mechanical",
+      "ISTE project award",
+      "mechanical incubation center"
+    ],
+    "metadata": {
+      "entity_type": "department_achievements"
+    },
+    "top_awards": [
+      "Shrimati Vijay Usha Sodha Research Award",
+      "Hari Om Ashram Young Scientist Award",
+      "ISTE Best B.Tech Project Award",
+      "Multiple Ph.D awards to faculty",
+      "Research projects worth ₹2 crore",
+      "NBA Tier-I Accreditation",
+      "AICTE MODROBS and RPS funding",
+      "Incubation center established",
+      "Consultancy in energy auditing",
+      "Student prizes in national events"
+    ],
+    "text_for_embedding": "Mechanical Engineering Achievements | Category: departments | Subcategory: achievements | Department: me | Keywords: Mechanical achievements RGMCET, ME awards, research funding mechanical, ISTE project award, mechanical incubation center | The Mechanical Engineering department has received several recognitions including national research awards, ISTE Best B.Tech Project awards, funded research projects worth approximately two crore rupees, and establishment of an incubation center supporting innovation and consultancy activities. | top awards: Shrimati Vijay Usha Sodha Research Award, Hari Om Ashram Young Scientist Award, ISTE Best B.Tech Project Award, Multiple Ph.D awards to faculty, Research projects worth ₹2 crore, NBA Tier-I Accreditation, AICTE MODROBS and RPS funding, Incubation center established, Consultancy in energy auditing, Student prizes in national events",
+    "images": []
+  },
+  {
+    "id": "dept_ece_overview_1",
+    "category": "departments",
+    "subcategory": "overview",
+    "department": "ece",
+    "title": "Electronics and Communication Engineering Department Overview",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The Electronics and Communication Engineering (ECE) department at RGMCET offers B.Tech in ECE, M.Tech in VLSI Design, and Ph.D programs. The department has an intake of 240 students and is supported by advanced laboratories in communication systems, signal processing, and VLSI design along with experienced faculty.",
+    "keywords": [
+      "ECE RGMCET",
+      "electronics department overview",
+      "VLSI MTech RGMCET",
+      "ECE intake 240",
+      "communication engineering RGMCET"
+    ],
+    "metadata": {
+      "entity_type": "department_overview"
+    },
+    "text_for_embedding": "Electronics and Communication Engineering Department Overview | Category: departments | Subcategory: overview | Department: ece | Keywords: ECE RGMCET, electronics department overview, VLSI MTech RGMCET, ECE intake 240, communication engineering RGMCET | The Electronics and Communication Engineering (ECE) department at RGMCET offers B.Tech in ECE, M.Tech in VLSI Design, and Ph.D programs. The department has an intake of 240 students and is supported by advanced laboratories in communication systems, signal processing, and VLSI design along with experienced faculty.",
+    "images": [
+      {"url": "https://www.rgmcet.edu.in/assets/img/banner/ECE.jpg",
+      "name": "ECE Department Building"}]
+  },
+  {
+    "id": "dept_ece_faculty_1",
+    "category": "departments",
+    "subcategory": "faculty",
+    "department": "ece",
+    "title": "ECE Distinguished Faculty",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The ECE department is supported by experienced faculty members including Dr. J. Sofia Priya Dharshini, Dr. A. Sathish, Dr. T. Jayachandra Prasad, Dr. D. Satyanarayana, and other qualified professors contributing to teaching and research.",
+    "keywords": [
+      "ECE faculty RGMCET",
+      "electronics professors",
+      "Dr Jayachandra Prasad",
+      "ECE department staff",
+      "communication engineering faculty"
+    ],
+    "metadata": {
+      "entity_type": "department_faculty"
+    },
+    "top_faculty": [
+      "Dr. J. Sofia Priya Dharshini",
+      "Dr. A. Sathish",
+      "Dr. T. Jayachandra Prasad",
+      "Dr. D. Satyanarayana",
+      "Dr. Gopi Krishna Rao",
+      "Dr. C. Venkataiah",
+      "Dr. V. N. V. Satya Prakash",
+      "Dr. R. Hanuma Naik",
+      "Dr. M. Ramana Reddy",
+      "Mr. N. Nagaraja Kumar"
+    ],
+    "text_for_embedding": "ECE Distinguished Faculty | Category: departments | Subcategory: faculty | Department: ece | Keywords: ECE faculty RGMCET, electronics professors, Dr Jayachandra Prasad, ECE department staff, communication engineering faculty | The ECE department is supported by experienced faculty members including Dr. J. Sofia Priya Dharshini, Dr. A. Sathish, Dr. T. Jayachandra Prasad, Dr. D. Satyanarayana, and other qualified professors contributing to teaching and research.",
+    "images": [
+  {
+    "url": "https://www.rgmcet.edu.in/assets/img/teacher/ECE/6.jpeg",
+    "name": "Dr. J. Sofia Priya Dharshini",
+    "designation": "Professor & HOD",
+    "qualification": "M.Tech & Ph.D",
+    "faculty_id": "1-440099331"
+  },
+  {
+    "url": "https://www.rgmcet.edu.in/assets/img/teacher/ECE/2.jpg",
+    "name": "Dr. A. Sathish",
+    "designation": "Professor",
+    "qualification": "M.Tech & Ph.D",
+    "faculty_id": "1-440017293"
+  },
+  {
+    "url": "https://www.rgmcet.edu.in/assets/img/teacher/ECE/1-30.jpg",
+    "name": "Dr. T. Jayachandra Prasad",
+    "designation": "Professor & Principal",
+    "qualification": "M.Tech & Ph.D",
+    "faculty_id": "1-421138442"
+  },
+  {
+    "url": "https://www.rgmcet.edu.in/assets/img/teacher/ECE/1.jpg",
+    "name": "Dr. D. Satya Narayana",
+    "designation": "Professor",
+    "qualification": "M.Tech & Ph.D",
+    "faculty_id": "1-439834571"
+  },
+  {
+    "url": "https://www.rgmcet.edu.in/assets/img/teacher/ECE/3.jpg",
+    "name": "Dr. Gopi Krishna Rao Panyam Vuppu",
+    "designation": "Professor",
+    "qualification": "M.E & Ph.D",
+    "faculty_id": "1-443366440"
+  },
+  {
+    "url": "https://www.rgmcet.edu.in/assets/img/teacher/ECE/34.jpg",
+    "name": "Dr. C. Venkataiah",
+    "designation": "Associate Professor",
+    "qualification": "M.Tech & Ph.D",
+    "faculty_id": "1-440277001"
+  },
+  {
+    "url": "https://www.rgmcet.edu.in/assets/img/teacher/ECE/19.jpg",
+    "name": "Dr. V. N. V. Satya Prakash",
+    "designation": "Professor",
+    "qualification": "M.Tech & Ph.D",
+    "faculty_id": "1-440017363"
+  },
+  {
+    "url": "https://www.rgmcet.edu.in/assets/img/teacher/ECE/20.jpg",
+    "name": "Dr. R. Hanuma Naik",
+    "designation": "Associate Professor",
+    "qualification": "M.Tech & Ph.D",
+    "faculty_id": "1-443692871"
+  },
+  {
+    "url": "https://www.rgmcet.edu.in/assets/img/teacher/ECE/7.jpg",
+    "name": "Mr. N. Nagaraja Kumar",
+    "designation": "Associate Professor",
+    "qualification": "M.Tech & Ph.D",
+    "faculty_id": "1-440099491"
+  }
+]
+  },
+  {
+    "id": "dept_ece_research_1",
+    "category": "departments",
+    "subcategory": "research",
+    "department": "ece",
+    "title": "ECE Research Supervisors and Areas",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The ECE department has recognized research supervisors working in areas such as VLSI design, communication systems, signal processing, embedded systems, and nano electronics.",
+    "keywords": [
+      "ECE research RGMCET",
+      "VLSI research supervisors",
+      "communication systems research",
+      "embedded systems research",
+      "ECE PhD supervisors"
+    ],
+    "metadata": {
+      "entity_type": "department_research"
+    },
+    "research_supervisors": [
+      "Dr. T. Jayachandra Prasad",
+      "Dr. D. Satyanarayana",
+      "Dr. A. Sathish",
+      "Dr. P. Gopi Krishna Rao"
+    ],
+    "text_for_embedding": "ECE Research Supervisors and Areas | Category: departments | Subcategory: research | Department: ece | Keywords: ECE research RGMCET, VLSI research supervisors, communication systems research, embedded systems research, ECE PhD supervisors | The ECE department has recognized research supervisors working in areas such as VLSI design, communication systems, signal processing, embedded systems, and nano electronics.",
+    "images": []
+  },
+  {
+    "id": "dept_ece_labs_1",
+    "category": "departments",
+    "subcategory": "labs",
+    "department": "ece",
+    "title": "ECE Laboratories",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The ECE department maintains advanced laboratories supporting practical learning and research in communication, VLSI, signal processing, and embedded systems.",
+    "keywords": [
+      "ECE labs RGMCET",
+      "communication lab",
+      "VLSI laboratory",
+      "embedded systems lab",
+      "electronics lab facilities"
+    ],
+    "metadata": {
+      "entity_type": "department_labs"
+    },
+    "text_for_embedding": "ECE Laboratories | Category: departments | Subcategory: labs | Department: ece | Keywords: ECE labs RGMCET, communication lab, VLSI laboratory, embedded systems lab, electronics lab facilities | The ECE department maintains advanced laboratories supporting practical learning and research in communication, VLSI, signal processing, and embedded systems.",
+
+    "images": []
+  },
+  {
+    "id": "dept_ece_achievements_1",
+    "category": "departments",
+    "subcategory": "achievements",
+    "department": "ece",
+    "title": "ECE Department Achievements",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The ECE department has earned recognitions including national faculty awards, IUCEE Faculty Leadership Award, ISSRD Best Supervisor Award, funded research projects worth over one crore rupees, and establishment of a virtual nano laboratory.",
+    "keywords": [
+      "ECE achievements",
+      "IUCEE award",
+      "virtual nano lab",
+      "ECE research funding",
+      "electronics department awards"
+    ],
+    "metadata": {
+      "entity_type": "department_achievements"
+    },
+    "top_awards": [
+      "Women Coordinator Award (2023)",
+      "Best Faculty National Award",
+      "IUCEE Faculty Leadership Award",
+      "ISSRD Best Supervisor Award",
+      "Multiple doctoral completions",
+      "NASA Space App Challenge recognition",
+      "NBA Tier-1 accreditation",
+      "₹1.34 crore funded projects",
+      "Virtual Nano Lab established",
+      "IEEE and IETE affiliations"
+    ],
+    "text_for_embedding": "ECE Department Achievements | Category: departments | Subcategory: achievements | Department: ece | Keywords: ECE achievements, IUCEE award, virtual nano lab, ECE research funding, electronics department awards | The ECE department has earned recognitions including national faculty awards, IUCEE Faculty Leadership Award, ISSRD Best Supervisor Award, funded research projects worth over one crore rupees, and establishment of a virtual nano laboratory. | top awards: Women Coordinator Award (2023), Best Faculty National Award, IUCEE Faculty Leadership Award, ISSRD Best Supervisor Award, Multiple doctoral completions, NASA Space App Challenge recognition, NBA Tier-1 accreditation, ₹1.34 crore funded projects, Virtual Nano Lab established, IEEE and IETE affiliations",
+    "images": []
+  },
+  {
+    "id": "dept_cse_overview_1",
+    "category": "departments",
+    "subcategory": "overview",
+    "department": "cse",
+    "title": "Computer Science and Engineering Department Overview",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The Computer Science and Engineering (CSE) department at RGMCET offers B.Tech in Computer Science and Engineering, M.Tech in Computer Science, and Ph.D programs. The department has an intake of 420 students and focuses on software engineering, artificial intelligence, data science, and advanced computing technologies supported by experienced faculty and modern laboratories.",
+    "keywords": [
+      "CSE RGMCET",
+      "computer science department",
+      "CSE intake 420",
+      "AI and data science RGMCET",
+      "computer science programs"
+    ],
+    "metadata": {
+      "entity_type": "department_overview"
+    },
+    "text_for_embedding": "Computer Science and Engineering Department Overview | Category: departments | Subcategory: overview | Department: cse | Keywords: CSE RGMCET, computer science department, CSE intake 420, AI and data science RGMCET, computer science programs | The Computer Science and Engineering (CSE) department at RGMCET offers B.Tech in Computer Science and Engineering, M.Tech in Computer Science, and Ph.D programs. The department has an intake of 420 students and focuses on software engineering, artificial intelligence, data science, and advanced computing technologies supported by experienced faculty and modern laboratories.",
+    "images": [{"url": "https://www.rgmcet.edu.in/assets/img/banner/CSE.jpg",
+      "name": "CSE Department Building"}]
+  },
+  {
+    "id": "dept_cse_faculty_1",
+    "category": "departments",
+    "subcategory": "faculty",
+    "department": "cse",
+    "title": "CSE Distinguished Faculty",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The CSE department is supported by experienced faculty members including Dr. K. Subba Reddy, Dr. Rajaboina Raja Kumar, Dr. M. Sravan Kumar Reddy, Dr. K. Narsimhulu, and other qualified professors contributing to teaching and research in computing technologies.",
+    "keywords": [
+      "CSE faculty RGMCET",
+      "computer science professors",
+      "Dr Subba Reddy",
+      "CSE department staff",
+      "software engineering faculty"
+    ],
+    "metadata": {
+      "entity_type": "department_faculty"
+    },
+    "top_faculty": [
+      "Dr. K. Subba Reddy",
+      "Dr. Rajaboina Raja Kumar",
+      "Dr. M. Sravan Kumar Reddy",
+      "Dr. K. Narsimhulu",
+      "Dr. P. Sreedevi",
+      "Dr. N. Madhusudhana Reddy",
+      "Dr. G. Sunil Vijaya Kumar",
+      "Dr. P. Prathap Naidu",
+      "Dr. N. Ramajanyea Reddy",
+      "Dr. B. Rama Subbaiah"
+    ],
+    "text_for_embedding": "CSE Distinguished Faculty | Category: departments | Subcategory: faculty | Department: cse | Keywords: CSE faculty RGMCET, computer science professors, Dr Subba Reddy, CSE department staff, software engineering faculty | The CSE department is supported by experienced faculty members including Dr. K. Subba Reddy, Dr. Rajaboina Raja Kumar, Dr. M. Sravan Kumar Reddy, Dr. K. Narsimhulu, and other qualified professors contributing to teaching and research in computing technologies.",
+    "images": [
+  {
+    "url": "https://www.rgmcet.edu.in/assets/img/teacher/cse/KSR.jpg",
+    "name": "Dr. K. Subba Reddy",
+    "designation": "Professor & HOD",
+    "qualification": "Ph.D"
+    
+  },
+  {
+    "url": "https://www.rgmcet.edu.in/assets/img/teacher/cse/3.jpeg",
+    "name": "Dr. Rajaboina Raja Kumar",
+    "designation": "Professor",
+    "qualification": "Ph.D"
+    
+  },
+  {
+    "url": "https://www.rgmcet.edu.in/assets/img/teacher/cse/5.jpeg",
+    "name": "Dr. M. Sravan Kumar Reddy",
+    "designation": "Associate Professor",
+    "qualification": "Ph.D"
+    
+  },
+  {
+    "url": "https://www.rgmcet.edu.in/assets/img/teacher/cse/7.jpeg",
+    "name": "Dr. K. Narsimhulu",
+    "designation": "Associate Professor",
+    "qualification": "Ph.D"
+    
+  },
+  {
+    "url": "https://www.rgmcet.edu.in/assets/img/teacher/cse/9.jpeg",
+    "name": "Dr. P. Sreedevi",
+    "designation": "Associate Professor",
+    "qualification": "Ph.D"
+    
+  },
+  {
+    "url": "https://www.rgmcet.edu.in/assets/img/teacher/cse/2.jpeg",
+    "name": "Dr. N. Madhusudhana Reddy",
+    "designation": "Professor",
+    "qualification": "Ph.D"
+    
+  },
+  {
+    "url": "https://www.rgmcet.edu.in/assets/img/teacher/cse/4.jpg",
+    "name": "Dr. G. Sunil Vijaya Kumar",
+    "designation": "Professor",
+    "qualification": "Ph.D"
+    
+  },
+  {
+    "url": "https://www.rgmcet.edu.in/assets/img/teacher/cse/6.jpeg",
+    "name": "Dr. P. Prathap Naidu",
+    "designation": "Associate Professor",
+    "qualification": "Ph.D"
+    
+  },
+  {
+    "url": "https://www.rgmcet.edu.in/assets/img/teacher/cse/10.jpeg",
+    "name": "Dr. N. Ramajanyea Reddy",
+    "designation": "Professor",
+    "qualification": "Ph.D"
+    
+  },
+  {
+    "url": "https://www.rgmcet.edu.in/assets/img/teacher/cse/12.jpg",
+    "name": "Dr. B. Rama Subbaiah",
+    "designation": "Assistant Professor",
+    "qualification": "Ph.D"
+    
+  }
+]
+  },
+  {
+    "id": "dept_cse_research_1",
+    "category": "departments",
+    "subcategory": "research",
+    "department": "cse",
+    "title": "CSE Research Supervisors and Areas",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The CSE department has recognized research supervisors working in areas such as artificial intelligence, machine learning, data science, cloud computing, and advanced software systems.",
+    "keywords": [
+      "CSE research RGMCET",
+      "AI research supervisors",
+      "machine learning research",
+      "cloud computing research",
+      "CSE PhD supervisors"
+    ],
+    "metadata": {
+      "entity_type": "department_research"
+    },
+    "research_supervisors": [
+      "Dr. K. Subba Reddy",
+      "Dr. N. Madhusudhana Reddy",
+      "Dr. G. Sunil Vijay Kumar",
+      "Dr. R. Raja Kumar",
+      "Dr. N. Ramanjaneya Reddy",
+      "Dr. M. Sravan Kumar Reddy"
+    ],
+    "text_for_embedding": "CSE Research Supervisors and Areas | Category: departments | Subcategory: research | Department: cse | Keywords: CSE research RGMCET, AI research supervisors, machine learning research, cloud computing research, CSE PhD supervisors | The CSE department has recognized research supervisors working in areas such as artificial intelligence, machine learning, data science, cloud computing, and advanced software systems.",
+    "images": []
+  },
+  {
+    "id": "dept_cse_labs_1",
+    "category": "departments",
+    "subcategory": "labs",
+    "department": "cse",
+    "title": "CSE Laboratories and Computing Facilities",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The CSE department maintains modern computing laboratories supporting programming, data science, artificial intelligence, networks, and software development practical training for students.",
+    "keywords": [
+      "CSE labs RGMCET",
+      "computer labs",
+      "AI lab",
+      "programming lab",
+      "software development lab"
+    ],
+    "metadata": {
+      "entity_type": "department_labs"
+    },
+    "text_for_embedding": "CSE Laboratories and Computing Facilities | Category: departments | Subcategory: labs | Department: cse | Keywords: CSE labs RGMCET, computer labs, AI lab, programming lab, software development lab | The CSE department maintains modern computing laboratories supporting programming, data science, artificial intelligence, networks, and software development practical training for students.",
+    "documents": [
+  {
+    "title": "CSE Lab Details",
+    "url": "https://www.rgmcet.edu.in/assets/img/documents/Department%20Programs/CSE/CSE%20LAB%20DETAILS.pdf",
+    "type": "pdf"
+  }
+],
+    "images": []
+  },
+  {
+    "id": "dept_cse_achievements_1",
+    "category": "departments",
+    "subcategory": "achievements",
+    "department": "cse",
+    "title": "CSE Department Achievements",
+    "url": "https://www.rgmcet.edu.in",
+    "content": "The CSE department has received multiple recognitions including Google Certified Educator awards, AWS Academy recognition, Best Researcher awards, and numerous Scopus and Web of Science indexed publications by faculty and students.",
+    "keywords": [
+      "CSE achievements",
+      "AWS academy RGMCET",
+      "Google educator award",
+      "CSE research publications",
+      "computer science awards"
+    ],
+    "metadata": {
+      "entity_type": "department_achievements"
+    },
+    "top_awards": [
+      "Google Certified Educator Award (2025)",
+      "Best Performing CoE Coordinator (2025)",
+      "Educator Excellence Award",
+      "Research and Development Leadership Award",
+      "Best Researcher Award",
+      "Curriculum Integration Award",
+      "AWS Academy Best Institute",
+      "Master Educator Award",
+      "Student Mentorship Award",
+      "Multiple Scopus and Web of Science publications"
+    ],
+    "text_for_embedding": "CSE Department Achievements | Category: departments | Subcategory: achievements | Department: cse | Keywords: CSE achievements, AWS academy RGMCET, Google educator award, CSE research publications, computer science awards | The CSE department has received multiple recognitions including Google Certified Educator awards, AWS Academy recognition, Best Researcher awards, and numerous Scopus and Web of Science indexed publications by faculty and students. | top awards: Google Certified Educator Award (2025), Best Performing CoE Coordinator (2025), Educator Excellence Award, Research and Development Leadership Award, Best Researcher Award, Curriculum Integration Award, AWS Academy Best Institute, Master Educator Award, Student Mentorship Award, Multiple Scopus and Web of Science publications",
+    "images": []
+  },
+  {
+    "id": "dept_cseaiml_overview_1",
+    "category": "departments",
+    "subcategory": "overview",
+    "department": "cse",
+    "title": "Computer Science and Engineering (Artificial Intelligence and Machine Learning) Department Overview",
+    "url": "",
+    "content": "The Bachelor of Technology (B.Tech) program in Computer Science and Engineering (Artificial Intelligence and Machine Learning) was introduced in the academic year 2022–2023 with an intake of 60 students. Artificial Intelligence enables machines to simulate human intelligence and solve complex problems using algorithms and data. Machine Learning focuses on building systems that can learn patterns from data and make predictions automatically. The program prepares students with strong foundations in artificial intelligence, machine learning, data analytics, and intelligent system development for modern industry applications.",
+    "keywords": [
+      "artificial intelligence machine learning",
+      "cse aiml",
+      "AI ML BTech RGMCET",
+      "CSE AIML department",
+      "Machine Learning engineering program",
+      "ai ml",
+      "CSE AI ML RGMCET",
+      "Artificial Intelligence department"
+    ],
+    "metadata": {
+      "entity_type": "department_overview"
+    },
+    "text_for_embedding": "Department: Computer Science and Engineering\nSpecialization: CSE (AI & ML)\nAlso known as: cse aiml, ai ml, artificial intelligence machine learning\n\nTitle: Computer Science and Engineering (Artificial Intelligence and Machine Learning) Department Overview\n\nThe Bachelor of Technology (B.Tech) program in Computer Science and Engineering (Artificial Intelligence and Machine Learning) was introduced in the academic year 2022–2023 with an intake of 60 students. Artificial Intelligence enables machines to simulate human intelligence and solve complex problems using algorithms and data. Machine Learning focuses on building systems that can learn patterns from data and make predictions automatically. The program prepares students with strong foundations in artificial intelligence, machine learning, data analytics, and intelligent system development for modern industry applications.",
+    "images": [
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/banner/IT.jpg",
+        "name": "CSE AIML Department Building"
+      }
+    ],
+    "specialization": "aiml",
+    "type": "specialization",
+    "display_name": "CSE (AI & ML)",
+    "parent_department": "cse"
+  },
+  {
+    "id": "dept_cseaiml_vision_mission_1",
+    "category": "departments",
+    "subcategory": "overview",
+    "department": "cse",
+    "title": "CSE (AI & ML) Vision and Mission",
+    "url": "",
+    "content": "Vision: To develop competent professionals in the field of Artificial Intelligence and Machine Learning contributing globally to the benefit of industry and society. Mission: To develop state of the art academic and infrastructural facilities with modern equipment and learning resources to produce self sustainable professionals. To collaborate with industry and research laboratories through projects and internships enabling students to explore various directions of learning. To equip students with interdisciplinary skill sets required to build intelligent systems and achieve successful careers in the global marketplace.",
+    "keywords": [
+      "Artificial Intelligence education objectives",
+      "CSE AIML vision",
+      "artificial intelligence machine learning",
+      "cse aiml",
+      "AI ML department mission",
+      "ai ml",
+      "AI ML department goals"
+    ],
+    "metadata": {
+      "entity_type": "department_vision"
+    },
+    "text_for_embedding": "Department: Computer Science and Engineering\nSpecialization: CSE (AI & ML)\nAlso known as: cse aiml, ai ml, artificial intelligence machine learning\n\nTitle: CSE (AI & ML) Vision and Mission\n\nVision: To develop competent professionals in the field of Artificial Intelligence and Machine Learning contributing globally to the benefit of industry and society. Mission: To develop state of the art academic and infrastructural facilities with modern equipment and learning resources to produce self sustainable professionals. To collaborate with industry and research laboratories through projects and internships enabling students to explore various directions of learning. To equip students with interdisciplinary skill sets required to build intelligent systems and achieve successful careers in the global marketplace.",
+    "images": [],
+    "specialization": "aiml",
+    "type": "specialization",
+    "display_name": "CSE (AI & ML)",
+    "parent_department": "cse"
+  },
+  {
+    "id": "dept_cseaiml_programs_1",
+    "category": "departments",
+    "subcategory": "programs",
+    "department": "cse",
+    "title": "CSE (AI & ML) Programs and Course Structure",
+    "url": "",
+    "content": "The department offers B.Tech in Computer Science and Engineering with specialization in Artificial Intelligence and Machine Learning. The program follows RGM-R20 and RGM-R23 regulations with semester-wise course structures covering artificial intelligence, machine learning, deep learning, data analytics, natural language processing, and intelligent system design.",
+    "keywords": [
+      "Artificial Intelligence curriculum",
+      "CSE AIML program",
+      "artificial intelligence machine learning",
+      "cse aiml",
+      "ai ml",
+      "AI ML course structure",
+      "AI ML BTech syllabus",
+      "Machine Learning subjects"
+    ],
+    "metadata": {
+      "entity_type": "department_programs"
+    },
+    "text_for_embedding": "Department: Computer Science and Engineering\nSpecialization: CSE (AI & ML)\nAlso known as: cse aiml, ai ml, artificial intelligence machine learning\n\nTitle: CSE (AI & ML) Programs and Course Structure\n\nThe department offers B.Tech in Computer Science and Engineering with specialization in Artificial Intelligence and Machine Learning. The program follows RGM-R20 and RGM-R23 regulations with semester-wise course structures covering artificial intelligence, machine learning, deep learning, data analytics, natural language processing, and intelligent system design.",
+    "images": [],
+    "specialization": "aiml",
+    "type": "specialization",
+    "display_name": "CSE (AI & ML)",
+    "parent_department": "cse"
+  },
+  {
+    "id": "dept_cseaiml_faculty_1",
+    "category": "departments",
+    "subcategory": "faculty",
+    "department": "cse",
+    "title": "CSE (AI & ML) Faculty",
+    "url": "",
+    "content": "The CSE (Artificial Intelligence and Machine Learning) department is supported by qualified faculty members specializing in artificial intelligence, machine learning, data science, and advanced computing technologies.",
+    "keywords": [
+      "CSE AIML faculty",
+      "cse aiml",
+      "artificial intelligence machine learning",
+      "AI ML professors",
+      "Artificial Intelligence faculty",
+      "ai ml",
+      "Machine Learning professors"
+    ],
+    "metadata": {
+      "entity_type": "department_faculty"
+    },
+    "images": [
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/csebs/1.jpg",
+        "name": "Dr. G. Kishor Kumar",
+        "designation": "Professor & HOD",
+        "qualification": "M.Tech & Ph.D"
+      },
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/CSEAIML/avinash.jpg",
+        "name": "Dr. J. Avinash",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech & Ph.D"
+      },
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/CSEAIML/chandana.jpg",
+        "name": "Dr. G. Chandana Swathi",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech & Ph.D"
+      },
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/CSEAIML/Chakrapani.jpg",
+        "name": "Dr. Chakrapani",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech & Ph.D"
+      },
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/csebs/3.jpg",
+        "name": "Mr. V. Phanishwara Hara Gopal",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech"
+      },
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/CSEAIML/SRILAKSHMI.jpeg",
+        "name": "Dr. CH. Srilakshmi Prasanna",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech & Ph.D"
+      },
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/csebs/2.jpg",
+        "name": "Mr. P. Arun Babu",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech"
+      },
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/csebs/5.jpg",
+        "name": "Mrs. P. Priyanka",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech"
+      }
+    ],
+    "specialization": "aiml",
+    "type": "specialization",
+    "display_name": "CSE (AI & ML)",
+    "text_for_embedding": "Department: Computer Science and Engineering\nSpecialization: CSE (AI & ML)\nAlso known as: cse aiml, ai ml, artificial intelligence machine learning\n\nTitle: CSE (AI & ML) Faculty\n\nThe CSE (Artificial Intelligence and Machine Learning) department is supported by qualified faculty members specializing in artificial intelligence, machine learning, data science, and advanced computing technologies.",
+    "parent_department": "cse"
+  },
+  {
+    "id": "dept_cseaiml_outcomes_1",
+    "category": "departments",
+    "subcategory": "outcomes",
+    "department": "cse",
+    "title": "CSE (AI & ML) Program Outcomes",
+    "url": "",
+    "content": "Graduates of the CSE (Artificial Intelligence and Machine Learning) program will be able to design, develop, implement, and deploy intelligent systems and machine learning models to solve real-world problems in domains such as healthcare, finance, and IoT. Students gain proficiency in AI techniques including computer vision, natural language processing, and reinforcement learning. The program also focuses on building intelligent robotic systems and developing ethical AI solutions considering fairness, transparency, and societal impact.",
+    "keywords": [
+      "CSE AIML outcomes",
+      "AI ML program outcomes",
+      "Artificial Intelligence skills",
+      "Machine Learning graduate skills",
+      "cse aiml",
+      "artificial intelligence machine learning",
+      "ai ml"
+    ],
+    "metadata": {
+      "entity_type": "department_outcomes"
+    },
+    "text_for_embedding": "Department: Computer Science and Engineering\nSpecialization: CSE (AI & ML)\nAlso known as: cse aiml, ai ml, artificial intelligence machine learning\n\nTitle: CSE (AI & ML) Program Outcomes\n\nGraduates of the CSE (Artificial Intelligence and Machine Learning) program will be able to design, develop, implement, and deploy intelligent systems and machine learning models to solve real-world problems in domains such as healthcare, finance, and IoT. Students gain proficiency in AI techniques including computer vision, natural language processing, and reinforcement learning. The program also focuses on building intelligent robotic systems and developing ethical AI solutions considering fairness, transparency, and societal impact.",
+    "images": [],
+    "specialization": "aiml",
+    "type": "specialization",
+    "display_name": "CSE (AI & ML)",
+    "parent_department": "cse"
+  },
+  {
+    "id": "dept_csebs_overview_1",
+    "category": "departments",
+    "subcategory": "overview",
+    "department": "cse",
+    "title": "Computer Science and Engineering and Business Systems Department Overview",
+    "url": "",
+    "content": "The Bachelor of Technology (B.Tech) program in Computer Science and Engineering and Business Systems (CSE&BS) was introduced in the academic year 2020–2021 with a sanctioned intake of 60 students. The program is designed to combine core computer science knowledge with business and management skills. It focuses on the practical implementation of computer science concepts in real-world business applications. Students gain strong foundations in computing while also developing knowledge in humanities, economics, management sciences, and ethical values.",
+    "keywords": [
+      "CSE BS department",
+      "business systems",
+      "Business systems engineering",
+      "Computer Science and Business Systems program",
+      "cse bs",
+      "cse business systems",
+      "CSE BS BTech RGMCET",
+      "CSE Business Systems RGMCET"
+    ],
+    "metadata": {
+      "entity_type": "department_overview"
+    },
+    "text_for_embedding": "Department: Computer Science and Engineering\nSpecialization: CSE (Business Systems)\nAlso known as: cse bs, cse business systems, business systems\n\nTitle: Computer Science and Engineering and Business Systems Department Overview\n\nThe Bachelor of Technology (B.Tech) program in Computer Science and Engineering and Business Systems (CSE&BS) was introduced in the academic year 2020–2021 with a sanctioned intake of 60 students. The program is designed to combine core computer science knowledge with business and management skills. It focuses on the practical implementation of computer science concepts in real-world business applications. Students gain strong foundations in computing while also developing knowledge in humanities, economics, management sciences, and ethical values.",
+    "specialization": "business_systems",
+    "type": "specialization",
+    "display_name": "CSE (Business Systems)",
+    "parent_department": "cse"
+  },
+  {
+    "id": "dept_csebs_vision_mission_1",
+    "category": "departments",
+    "subcategory": "overview",
+    "department": "cse",
+    "title": "CSE Business Systems Vision and Mission",
+    "url": "",
+    "content": "Vision: To be a center of excellence in Computer Science and Management offering fundamental and advanced knowledge.\n\nMission: To impart knowledge in the state of the art areas of Computer Science and Management with strong theoretical foundations. To provide quality education through well designed curriculum aligned with challenging software industry needs. To facilitate the development of academic and industry collaboration for real-world learning.",
+    "keywords": [
+      "CSE BS vision",
+      "business systems",
+      "business systems engineering vision",
+      "cse bs",
+      "cse business systems",
+      "computer science management education",
+      "CSE Business Systems mission",
+      "CSE BS goals"
+    ],
+    "metadata": {
+      "entity_type": "department_vision"
+    },
+    "text_for_embedding": "Department: Computer Science and Engineering\nSpecialization: CSE (Business Systems)\nAlso known as: cse bs, cse business systems, business systems\n\nTitle: CSE Business Systems Vision and Mission\n\nVision: To be a center of excellence in Computer Science and Management offering fundamental and advanced knowledge.\n\nMission: To impart knowledge in the state of the art areas of Computer Science and Management with strong theoretical foundations. To provide quality education through well designed curriculum aligned with challenging software industry needs. To facilitate the development of academic and industry collaboration for real-world learning.",
+    "images": [],
+    "specialization": "business_systems",
+    "type": "specialization",
+    "display_name": "CSE (Business Systems)",
+    "parent_department": "cse"
+  },
+  {
+    "id": "dept_csebs_programs_1",
+    "category": "departments",
+    "subcategory": "programs",
+    "department": "cse",
+    "title": "CSE Business Systems Programs and Course Structure",
+    "url": "",
+    "content": "The department offers B.Tech in Computer Science and Engineering and Business Systems. The program follows RGM-R20 regulations and includes semester-wise course structures covering computer science fundamentals, software development, business systems, management concepts, and real-world enterprise applications.",
+    "keywords": [
+      "CSE BS subjects",
+      "Computer Science Business Systems curriculum",
+      "business systems",
+      "CSE BS syllabus",
+      "CSE BS program",
+      "Business systems engineering course structure",
+      "cse bs",
+      "cse business systems"
+    ],
+    "metadata": {
+      "entity_type": "department_programs"
+    },
+    "text_for_embedding": "Department: Computer Science and Engineering\nSpecialization: CSE (Business Systems)\nAlso known as: cse bs, cse business systems, business systems\n\nTitle: CSE Business Systems Programs and Course Structure\n\nThe department offers B.Tech in Computer Science and Engineering and Business Systems. The program follows RGM-R20 regulations and includes semester-wise course structures covering computer science fundamentals, software development, business systems, management concepts, and real-world enterprise applications.",
+    "images": [],
+    "specialization": "business_systems",
+    "type": "specialization",
+    "display_name": "CSE (Business Systems)",
+    "parent_department": "cse"
+  },
+  {
+    "id": "dept_csebs_faculty_1",
+    "category": "departments",
+    "subcategory": "faculty",
+    "department": "cse",
+    "title": "CSE Business Systems Faculty",
+    "url": "",
+    "content": "The Computer Science and Engineering and Business Systems department is supported by experienced faculty members specializing in computer science, software engineering, and interdisciplinary applications in business systems.",
+    "keywords": [
+      "CSE business systems staff",
+      "business systems",
+      "Computer science business systems professors",
+      "cse bs",
+      "CSE BS faculty",
+      "cse business systems",
+      "software and business faculty"
+    ],
+    "metadata": {
+      "entity_type": "department_faculty"
+    },
+    "images": [
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/csebs/1.jpg",
+        "name": "Dr. G. Kishor Kumar",
+        "designation": "Professor & HOD",
+        "qualification": "M.Tech & Ph.D"
+      },
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/csebs/2.jpg",
+        "name": "Mr. P. Arun Babu",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech"
+      },
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/csebs/3.jpg",
+        "name": "Mr. V. Phanishwara Hara Gopal",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech"
+      },
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/csebs/5.jpg",
+        "name": "Mrs. P. Priyanka",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech"
+      },
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/csebs/4.jpeg",
+        "name": "Mrs. C. Leelavathi",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech"
+      }
+    ],
+    "specialization": "business_systems",
+    "type": "specialization",
+    "display_name": "CSE (Business Systems)",
+    "text_for_embedding": "Department: Computer Science and Engineering\nSpecialization: CSE (Business Systems)\nAlso known as: cse bs, cse business systems, business systems\n\nTitle: CSE Business Systems Faculty\n\nThe Computer Science and Engineering and Business Systems department is supported by experienced faculty members specializing in computer science, software engineering, and interdisciplinary applications in business systems.",
+    "parent_department": "cse"
+  },
+  {
+    "id": "dept_csebs_outcomes_1",
+    "category": "departments",
+    "subcategory": "outcomes",
+    "department": "cse",
+    "title": "CSE Business Systems Program Outcomes",
+    "url": "",
+    "content": "Graduates of the Computer Science and Engineering and Business Systems program will apply engineering knowledge, problem analysis, and design principles to solve complex computing problems. They will be able to design and implement engineering solutions considering professional, managerial, and financial aspects. Students will develop skills to understand contemporary industrial trends and innovate solutions for real-world problems. The program also focuses on professional ethics, communication skills, teamwork, and sustainable engineering practices.",
+    "keywords": [
+      "CSE BS outcomes",
+      "CSE business systems graduate outcomes",
+      "business systems",
+      "Business systems engineering skills",
+      "software and management engineering outcomes",
+      "cse bs",
+      "cse business systems"
+    ],
+    "metadata": {
+      "entity_type": "department_outcomes"
+    },
+    "text_for_embedding": "Department: Computer Science and Engineering\nSpecialization: CSE (Business Systems)\nAlso known as: cse bs, cse business systems, business systems\n\nTitle: CSE Business Systems Program Outcomes\n\nGraduates of the Computer Science and Engineering and Business Systems program will apply engineering knowledge, problem analysis, and design principles to solve complex computing problems. They will be able to design and implement engineering solutions considering professional, managerial, and financial aspects. Students will develop skills to understand contemporary industrial trends and innovate solutions for real-world problems. The program also focuses on professional ethics, communication skills, teamwork, and sustainable engineering practices.",
+    "images": [],
+    "specialization": "business_systems",
+    "type": "specialization",
+    "display_name": "CSE (Business Systems)",
+    "parent_department": "cse"
+  },
+  {
+    "id": "dept_cseds_overview_1",
+    "category": "departments",
+    "subcategory": "overview",
+    "department": "cse",
+    "title": "Computer Science and Engineering (Data Science) Department Overview",
+    "url": "",
+    "content": "The Bachelor of Technology program in Computer Science and Engineering with specialization in Data Science focuses on building strong foundations in data analysis, statistics, and computing technologies. The program prepares students to work with large scale datasets and extract meaningful insights using modern tools and algorithms. The department trains students to solve real world problems through data driven decision making and advanced computing techniques.",
+    "keywords": [
+      "Data Science specialization",
+      "Data Science engineering program",
+      "Computer Science Data Science department",
+      "cse ds",
+      "cse data science",
+      "data science",
+      "CSE Data Science RGMCET",
+      "CSE DS BTech RGMCET"
+    ],
+    "metadata": {
+      "entity_type": "department_overview"
+    },
+    "text_for_embedding": "Department: Computer Science and Engineering\nSpecialization: CSE (Data Science)\nAlso known as: cse ds, data science, cse data science\n\nTitle: Computer Science and Engineering (Data Science) Department Overview\n\nThe Bachelor of Technology program in Computer Science and Engineering with specialization in Data Science focuses on building strong foundations in data analysis, statistics, and computing technologies. The program prepares students to work with large scale datasets and extract meaningful insights using modern tools and algorithms. The department trains students to solve real world problems through data driven decision making and advanced computing techniques.",
+    "images": [
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/departments/CSEDS/CSEDS1.JPG",
+        "name": "CSE Data Science Department Building"
+      }
+    ],
+    "specialization": "data_science",
+    "type": "specialization",
+    "display_name": "CSE (Data Science)",
+    "parent_department": "cse"
+  },
+  {
+    "id": "dept_cseds_vision_mission_1",
+    "category": "departments",
+    "subcategory": "overview",
+    "department": "cse",
+    "title": "CSE Data Science Vision and Mission",
+    "url": "",
+    "content": "Vision: The vision of the Data Science department is to create a world class academic program that trains the next generation of data scientists capable of solving modern technological challenges and driving innovation through research and analytics. Mission: To educate students in data science with strong foundations in computing and statistics. To promote cutting edge research in data analytics and artificial intelligence. To establish a center of technological knowledge supporting data creators, providers, and users across industry and society.",
+    "keywords": [
+      "CSE Data Science vision",
+      "cse ds",
+      "Data Science education goals",
+      "cse data science",
+      "data science",
+      "Data Science department mission",
+      "Data Science research vision"
+    ],
+    "metadata": {
+      "entity_type": "department_vision"
+    },
+    "text_for_embedding": "Department: Computer Science and Engineering\nSpecialization: CSE (Data Science)\nAlso known as: cse ds, data science, cse data science\n\nTitle: CSE Data Science Vision and Mission\n\nVision: The vision of the Data Science department is to create a world class academic program that trains the next generation of data scientists capable of solving modern technological challenges and driving innovation through research and analytics. Mission: To educate students in data science with strong foundations in computing and statistics. To promote cutting edge research in data analytics and artificial intelligence. To establish a center of technological knowledge supporting data creators, providers, and users across industry and society.",
+    "images": [],
+    "specialization": "data_science",
+    "type": "specialization",
+    "display_name": "CSE (Data Science)",
+    "parent_department": "cse"
+  },
+  {
+    "id": "dept_cseds_programs_1",
+    "category": "departments",
+    "subcategory": "programs",
+    "department": "cse",
+    "title": "CSE Data Science Programs and Course Structure",
+    "url": "",
+    "content": "The department offers B.Tech in Computer Science and Engineering with specialization in Data Science. The program follows RGM-R20 regulations and includes courses in statistics, machine learning, data analytics, big data processing, artificial intelligence, and software engineering. The course structure spans four years with eight semesters and focuses on practical learning through laboratories and projects.",
+    "keywords": [
+      "cse ds",
+      "Big data and machine learning subjects",
+      "Data analytics course structure",
+      "cse data science",
+      "data science",
+      "CSE DS syllabus",
+      "Data Science curriculum",
+      "CSE Data Science program"
+    ],
+    "metadata": {
+      "entity_type": "department_programs"
+    },
+    "text_for_embedding": "Department: Computer Science and Engineering\nSpecialization: CSE (Data Science)\nAlso known as: cse ds, data science, cse data science\n\nTitle: CSE Data Science Programs and Course Structure\n\nThe department offers B.Tech in Computer Science and Engineering with specialization in Data Science. The program follows RGM-R20 regulations and includes courses in statistics, machine learning, data analytics, big data processing, artificial intelligence, and software engineering. The course structure spans four years with eight semesters and focuses on practical learning through laboratories and projects.",
+    "images": [],
+    "specialization": "data_science",
+    "type": "specialization",
+    "display_name": "CSE (Data Science)",
+    "parent_department": "cse"
+  },
+  {
+    "id": "dept_cseds_faculty_1",
+    "category": "departments",
+    "subcategory": "faculty",
+    "department": "cse",
+    "title": "CSE Data Science Faculty",
+    "url": "",
+    "content": "The Computer Science and Engineering (Data Science) department is supported by experienced faculty members specializing in data analytics, machine learning, and advanced computing technologies.",
+    "keywords": [
+      "cse ds",
+      "CSE DS teaching staff",
+      "cse data science",
+      "data science",
+      "data analytics faculty",
+      "Data Science professors",
+      "CSE Data Science faculty"
+    ],
+    "metadata": {
+      "entity_type": "department_faculty"
+    },
+    "images": [
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/cseds/BBR.jpg",
+        "name": "Dr. B. Bhaskara Rao",
+        "designation": "Associate Professor & HOD",
+        "qualification": "M.Tech & Ph.D"
+      },
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/cseds/msbasha1.JPG",
+        "name": "Dr. M. Suleman Basha",
+        "designation": "Associate Professor",
+        "qualification": "M.Tech & Ph.D"
+      },
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/cseds/Rangaswamy.jpeg",
+        "name": "Dr. K. Rangaswamy",
+        "designation": "Associate Professor",
+        "qualification": "M.Tech & Ph.D"
+      },
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/cseds/Raghavendra.jpeg",
+        "name": "Dr. M. Sri Raghavendra",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech & Ph.D"
+      },
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/cseds/karimulla.jpg",
+        "name": "Dr. S. Karimulla Basha",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech & Ph.D"
+      },
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/cseds/Penchalprasad.jpeg",
+        "name": "Dr. P. Penchala Prasad",
+        "designation": "Associate Professor",
+        "qualification": "M.Tech & Ph.D"
+      }
+    ],
+    "specialization": "data_science",
+    "type": "specialization",
+    "display_name": "CSE (Data Science)",
+    "text_for_embedding": "Department: Computer Science and Engineering\nSpecialization: CSE (Data Science)\nAlso known as: cse ds, data science, cse data science\n\nTitle: CSE Data Science Faculty\n\nThe Computer Science and Engineering (Data Science) department is supported by experienced faculty members specializing in data analytics, machine learning, and advanced computing technologies.",
+    "parent_department": "cse"
+  },
+  {
+    "id": "dept_cseds_outcomes_1",
+    "category": "departments",
+    "subcategory": "outcomes",
+    "department": "cse",
+    "title": "CSE Data Science Program Outcomes",
+    "url": "",
+    "content": "Graduates of the Computer Science and Engineering Data Science program will develop strong analytical skills to work with large datasets. They will apply mathematical and statistical models to solve real world problems, design and implement data driven solutions, and use modern tools for predictive modeling and decision making. Students will also gain expertise in data visualization, machine learning techniques, and data engineering practices required for modern industry roles.",
+    "keywords": [
+      "cse ds",
+      "cse data science",
+      "machine learning and data science skills",
+      "data science",
+      "CSE Data Science outcomes",
+      "Data Science engineering skills",
+      "Data analytics graduate outcomes"
+    ],
+    "metadata": {
+      "entity_type": "department_outcomes"
+    },
+    "text_for_embedding": "Department: Computer Science and Engineering\nSpecialization: CSE (Data Science)\nAlso known as: cse ds, data science, cse data science\n\nTitle: CSE Data Science Program Outcomes\n\nGraduates of the Computer Science and Engineering Data Science program will develop strong analytical skills to work with large datasets. They will apply mathematical and statistical models to solve real world problems, design and implement data driven solutions, and use modern tools for predictive modeling and decision making. Students will also gain expertise in data visualization, machine learning techniques, and data engineering practices required for modern industry roles.",
+    "images": [],
+    "specialization": "data_science",
+    "type": "specialization",
+    "display_name": "CSE (Data Science)",
+    "parent_department": "cse"
+  },
+  {
+    "id": "dept_csecs_overview_1",
+    "category": "departments",
+    "subcategory": "overview",
+    "department": "cse",
+    "title": "Computer Science and Engineering (Cyber Security) Department Overview",
+    "url": "",
+    "content": "The Bachelor of Technology program in Computer Science and Engineering with specialization in Cyber Security was introduced in the academic year 2022–2023. The program focuses on developing expertise in secure systems, cyber defense mechanisms, and information protection technologies. Students gain hands-on practical experience in secure system design, network security, cryptography, web security, and cyber risk management. The curriculum also emphasizes legal, behavioral, and ethical aspects of cybersecurity to prepare graduates capable of protecting digital infrastructure and developing secure computing solutions.",
+    "keywords": [
+      "CSE Cyber Security RGMCET",
+      "cyber security",
+      "CSE CS BTech RGMCET",
+      "Computer Science Cyber Security department",
+      "cybersecurity",
+      "Cyber security specialization",
+      "cse cyber security",
+      "Cyber security engineering program"
+    ],
+    "metadata": {
+      "entity_type": "department_overview"
+    },
+    "text_for_embedding": "Department: Computer Science and Engineering\nSpecialization: CSE (Cyber Security)\nAlso known as: cse cyber security, cyber security, cybersecurity\n\nTitle: Computer Science and Engineering (Cyber Security) Department Overview\n\nThe Bachelor of Technology program in Computer Science and Engineering with specialization in Cyber Security was introduced in the academic year 2022–2023. The program focuses on developing expertise in secure systems, cyber defense mechanisms, and information protection technologies. Students gain hands-on practical experience in secure system design, network security, cryptography, web security, and cyber risk management. The curriculum also emphasizes legal, behavioral, and ethical aspects of cybersecurity to prepare graduates capable of protecting digital infrastructure and developing secure computing solutions.",
+    "images": [
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/banner/IT.jpg",
+        "name": "CSE Cyber Security Department Building"
+      }
+    ],
+    "specialization": "cyber_security",
+    "type": "specialization",
+    "display_name": "CSE (Cyber Security)",
+    "parent_department": "cse"
+  },
+  {
+    "id": "dept_csecs_vision_mission_1",
+    "category": "departments",
+    "subcategory": "overview",
+    "department": "cse",
+    "title": "CSE Cyber Security Vision and Mission",
+    "url": "",
+    "content": "Vision: To become a partner of choice for Cyber and Information Security by implementing comprehensive data protection strategies and contributing to the development of secure digital systems for organizations and society. Mission: To introduce best practices of cyber and information security protection, integrate them with organizational processes, empower organizations to manage and mitigate risks, and help them become globally competitive.",
+    "keywords": [
+      "cyber security program vision",
+      "cyber security",
+      "Cyber security department vision",
+      "cybersecurity",
+      "CSE cyber security mission",
+      "cse cyber security",
+      "information security education goals"
+    ],
+    "metadata": {
+      "entity_type": "department_vision"
+    },
+    "text_for_embedding": "Department: Computer Science and Engineering\nSpecialization: CSE (Cyber Security)\nAlso known as: cse cyber security, cyber security, cybersecurity\n\nTitle: CSE Cyber Security Vision and Mission\n\nVision: To become a partner of choice for Cyber and Information Security by implementing comprehensive data protection strategies and contributing to the development of secure digital systems for organizations and society. Mission: To introduce best practices of cyber and information security protection, integrate them with organizational processes, empower organizations to manage and mitigate risks, and help them become globally competitive.",
+    "images": [],
+    "specialization": "cyber_security",
+    "type": "specialization",
+    "display_name": "CSE (Cyber Security)",
+    "parent_department": "cse"
+  },
+  {
+    "id": "dept_csecs_programs_1",
+    "category": "departments",
+    "subcategory": "programs",
+    "department": "cse",
+    "title": "CSE Cyber Security Programs and Course Structure",
+    "url": "",
+    "content": "The department offers B.Tech in Computer Science and Engineering with specialization in Cyber Security. The program spans four years with eight semesters and includes courses covering secure coding, network security, cryptography, database security, web security, cyber risk management, and digital forensics. The curriculum provides practical laboratory experience and project-based learning in cybersecurity technologies.",
+    "keywords": [
+      "network security and cryptography subjects",
+      "cyber security",
+      "CSE CS syllabus",
+      "cybersecurity course structure",
+      "CSE Cyber Security program",
+      "cybersecurity curriculum",
+      "cybersecurity",
+      "cse cyber security"
+    ],
+    "metadata": {
+      "entity_type": "department_programs"
+    },
+    "text_for_embedding": "Department: Computer Science and Engineering\nSpecialization: CSE (Cyber Security)\nAlso known as: cse cyber security, cyber security, cybersecurity\n\nTitle: CSE Cyber Security Programs and Course Structure\n\nThe department offers B.Tech in Computer Science and Engineering with specialization in Cyber Security. The program spans four years with eight semesters and includes courses covering secure coding, network security, cryptography, database security, web security, cyber risk management, and digital forensics. The curriculum provides practical laboratory experience and project-based learning in cybersecurity technologies.",
+    "images": [],
+    "specialization": "cyber_security",
+    "type": "specialization",
+    "display_name": "CSE (Cyber Security)",
+    "parent_department": "cse"
+  },
+  {
+    "id": "dept_csecs_faculty_1",
+    "category": "departments",
+    "subcategory": "faculty",
+    "department": "cse",
+    "title": "CSE Cyber Security Faculty",
+    "url": "",
+    "content": "The Computer Science and Engineering (Cyber Security) department is supported by qualified faculty members specializing in cybersecurity, secure software development, network security, and information assurance.",
+    "keywords": [
+      "cybersecurity professors",
+      "CSE CS teaching staff",
+      "cyber security",
+      "information security faculty",
+      "cybersecurity",
+      "cse cyber security",
+      "CSE Cyber Security faculty"
+    ],
+    "metadata": {
+      "entity_type": "department_faculty"
+    },
+    "images": [
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/CSECS/kaviarasan.jpeg",
+        "name": "Dr. R. Kaviarasan",
+        "designation": "Associate Professor & HOD",
+        "qualification": "Ph.D"
+      },
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/CSECS/Raghunath.jpg",
+        "name": "Dr. D. Raghunath Kumar Babu",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech & Ph.D"
+      },
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/CSECS/Muzib.jpeg",
+        "name": "Syed Muzibuddin",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech"
+      },
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/CSECS/srujana.jpeg",
+        "name": "Kammari Srujana",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech"
+      },
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/CSECS/Indira.jpeg",
+        "name": "C. K. Indira",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech"
+      },
+      {
+        "url": "https://www.rgmcet.edu.in/assets/img/teacher/CSECS/muneih.jpg",
+        "name": "T. Muneih",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech"
+      }
+    ],
+    "specialization": "cyber_security",
+    "type": "specialization",
+    "display_name": "CSE (Cyber Security)",
+    "text_for_embedding": "Department: Computer Science and Engineering\nSpecialization: CSE (Cyber Security)\nAlso known as: cse cyber security, cyber security, cybersecurity\n\nTitle: CSE Cyber Security Faculty\n\nThe Computer Science and Engineering (Cyber Security) department is supported by qualified faculty members specializing in cybersecurity, secure software development, network security, and information assurance.",
+    "parent_department": "cse"
+  },
+  {
+    "id": "dept_csecs_outcomes_1",
+    "category": "departments",
+    "subcategory": "outcomes",
+    "department": "cse",
+    "title": "CSE Cyber Security Program Outcomes",
+    "url": "",
+    "content": "Graduates of the Computer Science and Engineering Cyber Security program will develop the ability to analyze and design secure computing systems. Students will understand networking, cryptography, web security, and database management with strong adherence to secure software development practices. Graduates will be capable of developing strategies for protecting digital assets, managing cyber risks, and implementing cybersecurity solutions for organizations and individuals.",
+    "keywords": [
+      "cyber security",
+      "information security graduate outcomes",
+      "CSE Cyber Security outcomes",
+      "cybersecurity",
+      "cybersecurity engineering skills",
+      "cse cyber security",
+      "cyber risk management skills"
+    ],
+    "metadata": {
+      "entity_type": "department_outcomes"
+    },
+    "text_for_embedding": "Department: Computer Science and Engineering\nSpecialization: CSE (Cyber Security)\nAlso known as: cse cyber security, cyber security, cybersecurity\n\nTitle: CSE Cyber Security Program Outcomes\n\nGraduates of the Computer Science and Engineering Cyber Security program will develop the ability to analyze and design secure computing systems. Students will understand networking, cryptography, web security, and database management with strong adherence to secure software development practices. Graduates will be capable of developing strategies for protecting digital assets, managing cyber risks, and implementing cybersecurity solutions for organizations and individuals.",
+    "images": [],
+    "specialization": "cyber_security",
+    "type": "specialization",
+    "display_name": "CSE (Cyber Security)",
+    "parent_department": "cse"
+  }
+]
